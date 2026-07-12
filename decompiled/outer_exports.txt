@@ -1,0 +1,5 @@
+=== Exports of Outer PE (MJTVPFeD_dumped.exe) ===
+
+Total exports: 1
+
+  #140699299649392: 0x7FF71BC69770 start
