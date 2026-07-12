@@ -1,0 +1,63 @@
+=== Imports of PE#2 (flyinput.dll) ===
+
+Module 0: KERNEL32
+  0x180017A98: DisableThreadLibraryCalls
+  0x180017AA0: GetCurrentProcessId
+  0x180017AA8: GetCurrentThread
+  0x180017AB0: GetCurrentThreadId
+  0x180017AB8: GetModuleHandleA
+  0x180017AC0: GetProcAddress
+  0x180017AC8: GetSystemTimeAsFileTime
+  0x180017AD0: InitializeSListHead
+  0x180017AD8: QueryPerformanceCounter
+  0x180017AE0: Sleep
+
+Module 1: api-ms-win-crt-heap-l1-1-0
+  0x180017C30: _callnewh
+  0x180017C38: free
+  0x180017C40: malloc
+
+Module 2: api-ms-win-crt-runtime-l1-1-0
+  0x180017BC8: _beginthreadex
+  0x180017BD0: _cexit
+  0x180017BD8: _configure_narrow_argv
+  0x180017BE0: _crt_atexit
+  0x180017BE8: _execute_onexit_table
+  0x180017BF0: _initialize_narrow_environment
+  0x180017BF8: _initialize_onexit_table
+  0x180017C00: _initterm
+  0x180017C08: _initterm_e
+  0x180017C10: _register_onexit_function
+  0x180017C18: _seh_filter_dll
+  0x180017C20: terminate
+
+Module 3: MSVCP140
+  0x180017B20: ?_Throw_Cpp_error@std@@YAXH@Z
+  0x180017B28: ?_Xbad_function_call@std@@YAXXZ
+  0x180017B30: ?_Xlength_error@std@@YAXPEBD@Z
+  0x180017B38: _Cnd_broadcast
+  0x180017B40: _Cnd_do_broadcast_at_thread_exit
+  0x180017B48: _Cnd_wait
+  0x180017B50: _Mtx_lock
+  0x180017B58: _Mtx_unlock
+  0x180017B60: _Query_perf_counter
+  0x180017B68: _Query_perf_frequency
+  0x180017B70: _Thrd_detach
+  0x180017B78: _Thrd_id
+  0x180017B80: _Thrd_join
+
+Module 4: USER32
+  0x180017AF0: GetAsyncKeyState
+  0x180017AF8: KillTimer
+  0x180017B00: MapVirtualKeyA
+  0x180017B08: SendInput
+  0x180017B10: SetTimer
+
+Module 5: VCRUNTIME140
+  0x180017B90: _CxxThrowException
+  0x180017B98: __C_specific_handler
+  0x180017BA0: __std_exception_copy
+  0x180017BA8: __std_exception_destroy
+  0x180017BB0: __std_type_info_destroy_list
+  0x180017BB8: memcpy
+
