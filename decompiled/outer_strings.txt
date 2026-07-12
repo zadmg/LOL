@@ -1,0 +1,1816 @@
+=== Strings of Outer PE (MJTVPFeD_dumped.exe) ===
+
+Total: 905
+
+  0x7FF71BC6A062 [ASCII] len=5: '\\$\x08WH'
+    xref: (no xref)
+  0x7FF71BC6A5E2 [ASCII] len=5: 'H1D$ '
+    xref: (no xref)
+  0x7FF71BC6A5F1 [ASCII] len=8: 'L$HH1D$ '
+    xref: (no xref)
+  0x7FF71BC6A60F [ASCII] len=10: 'D$ H3L$ H3'
+    xref: (no xref)
+  0x7FF71BC6A742 [ASCII] len=5: '\\$\x08WH'
+    xref: (no xref)
+  0x7FF71BC6B727 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B735 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B745 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B753 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B765 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B773 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B783 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B791 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6B917 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BA17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BA97 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BAD7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BAF7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB07 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB27 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB35 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB45 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB53 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB65 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB73 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB83 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BB91 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BC17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BC97 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BCD7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BCF7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BD07 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BD17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BD97 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BDD7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BDF7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE07 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE57 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE77 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE87 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BE97 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BEB7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BEC7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BED7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BEE7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BEF7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF07 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF17 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF27 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF35 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF45 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF53 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF65 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF73 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF83 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF91 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BF97 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BFD7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6BFF7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C007 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C017 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C057 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C077 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C087 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C097 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C0B7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C0C7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C0D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C0E7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C0F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C107 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C117 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C157 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C177 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C187 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C197 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C1B7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C1C7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C1D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C1E7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C1F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C207 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C217 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C237 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C247 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C257 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C267 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C277 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C287 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C297 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2A7 [ASCII] len=5: '\r\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2B7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2C7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2E7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C2F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C307 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C317 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C327 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C335 [ASCII] len=7: '\x07\x08\t\n\x0b\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C345 [ASCII] len=7: '\x07\x08\t\n\x0b\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C353 [ASCII] len=9: '\x07\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C365 [ASCII] len=7: '\x07\x08\t\n\x0b\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C373 [ASCII] len=9: '\x07\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C383 [ASCII] len=9: '\x07\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C391 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C397 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3A6 [ASCII] len=6: '\x08\t\n\x0b\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3B4 [ASCII] len=8: '\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3C4 [ASCII] len=8: '\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3E4 [ASCII] len=8: '\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C3F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C407 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C417 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C427 [ASCII] len=5: '\x07\n\x0b\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C435 [ASCII] len=7: '\x07\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C445 [ASCII] len=7: '\x07\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C457 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C465 [ASCII] len=7: '\x07\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C477 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C487 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C497 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4A6 [ASCII] len=6: '\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4B7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4C7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4E7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C4F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C507 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C517 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C527 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C535 [ASCII] len=7: '\x07\x08\t\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C545 [ASCII] len=7: '\x07\x08\t\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C557 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C565 [ASCII] len=7: '\x07\x08\t\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C577 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C587 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C597 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5A6 [ASCII] len=6: '\x08\t\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5B7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5C7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5E7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C5F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C607 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C617 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C627 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C637 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C647 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C7A9 [ASCII] len=6: '\n\n\x08\n\x08\x08'
+    xref: (no xref)
+  0x7FF71BC6C7B1 [ASCII] len=6: '\n\n\x08\n\x08\x08'
+    xref: (no xref)
+  0x7FF71BC6C7C1 [ASCII] len=6: '\n\n\x08\n\x08\x08'
+    xref: (no xref)
+  0x7FF71BC6C7E1 [ASCII] len=6: '\n\n\x08\n\x08\x08'
+    xref: (no xref)
+  0x7FF71BC6C827 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C833 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C897 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8A7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8B3 [ASCII] len=9: '\x07\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8C4 [ASCII] len=8: '\x08\t\n\x0b\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8D7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8E7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C8F7 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C907 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6C917 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6D237 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6D257 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6D267 [ASCII] len=5: '\x07\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC6D5A0 [ASCII] len=8: 'unknown '
+    xref: (no xref)
+  0x7FF71BC6D5D0 [ASCII] len=8: '""""\\\\\\\\'
+    xref: (no xref)
+  0x7FF71BC6D5E0 [ASCII] len=19: 'LeagueClient.exeMZx'
+    xref: (no xref)
+  0x7FF71BC6D63D [ASCII] len=41: '!This program cannot be run in DOS mode.$'
+    xref: (no xref)
+  0x7FF71BC6D7C0 [ASCII] len=5: '.rsrc'
+    xref: (no xref)
+  0x7FF71BC6D7ED [ASCII] len=6: 'UPX!\r$'
+    xref: (no xref)
+  0x7FF71BC6D927 [ASCII] len=5: 'MZ f9'
+    xref: (no xref)
+  0x7FF71BC6DAC1 [ASCII] len=6: '$P\x08F0H'
+    xref: (no xref)
+  0x7FF71BC6DB37 [ASCII] len=6: 'x;\ry\x1br'
+    xref: (no xref)
+  0x7FF71BC6DB69 [ASCII] len=5: 'ineI\x0b'
+    xref: (no xref)
+  0x7FF71BC6DB75 [ASCII] len=5: 'Genu\x0b'
+    xref: (no xref)
+  0x7FF71BC6DBA6 [ASCII] len=5: '!=p=W'
+    xref: (no xref)
+  0x7FF71BC6DBE1 [ASCII] len=5: '\x07|B\tA'
+    xref: (no xref)
+  0x7FF71BC6DD28 [ASCII] len=6: '5<yZ:u'
+    xref: (no xref)
+  0x7FF71BC6DD59 [ASCII] len=8: '`+t|bAVb'
+    xref: (no xref)
+  0x7FF71BC6DDE8 [ASCII] len=5: '\r\rvLA'
+    xref: (no xref)
+  0x7FF71BC6DDFF [ASCII] len=8: 't|$HA^A\x07'
+    xref: (no xref)
+  0x7FF71BC6DE1C [ASCII] len=9: '\r<@hp\x0b%J0'
+    xref: (no xref)
+  0x7FF71BC6DF1D [ASCII] len=5: 'u<qt%'
+    xref: (no xref)
+  0x7FF71BC6DF3C [ASCII] len=5: 'x\x07@_^'
+    xref: (no xref)
+  0x7FF71BC6DF83 [ASCII] len=5: 'vo\n\rH'
+    xref: (no xref)
+  0x7FF71BC6E032 [ASCII] len=5: '%Jpkk'
+    xref: (no xref)
+  0x7FF71BC6E11A [ASCII] len=8: ' MiniDum'
+    xref: (no xref)
+  0x7FF71BC6E126 [ASCII] len=7: 'pWrite\x08'
+    xref: (no xref)
+  0x7FF71BC6E12F [ASCII] len=7: 'Read\x07St'
+    xref: (no xref)
+  0x7FF71BC6E13E [ASCII] len=23: 'C:\\Users\\Public\\FlyPY\\f'
+    xref: (no xref)
+  0x7FF71BC6E15A [ASCII] len=8: '.put.dll'
+    xref: (no xref)
+  0x7FF71BC6E163 [ASCII] len=7: '\\dbgco-'
+    xref: (no xref)
+  0x7FF71BC6E17A [ASCII] len=10: '\tss failed'
+    xref: (no xref)
+  0x7FF71BC6E188 [ASCII] len=6: ' \x1big:;'
+    xref: (no xref)
+  0x7FF71BC6E1D4 [ASCII] len=6: "','w<'"
+    xref: (no xref)
+  0x7FF71BC6E1DD [ASCII] len=6: "<V'b'\x1b"
+    xref: (no xref)
+  0x7FF71BC6E201 [ASCII] len=7: '0(\x07L(X\x0b'
+    xref: (no xref)
+  0x7FF71BC6E289 [ASCII] len=5: '\n4G\nR'
+    xref: (no xref)
+  0x7FF71BC6E2F3 [ASCII] len=5: '&7ef*'
+    xref: (no xref)
+  0x7FF71BC6E320 [ASCII] len=5: '(K\x07ry'
+    xref: (no xref)
+  0x7FF71BC6E330 [ASCII] len=7: '*<S\x0b()T'
+    xref: (no xref)
+  0x7FF71BC6E36E [ASCII] len=5: '\x0b\x073H3'
+    xref: (no xref)
+  0x7FF71BC6E374 [ASCII] len=9: 'X\x0bXll3H3H'
+    xref: (no xref)
+  0x7FF71BC6E3C3 [ASCII] len=6: 'vrx*t\x0b'
+    xref: (no xref)
+  0x7FF71BC6E411 [ASCII] len=28: 'sableThreadLibraryCallsExit-'
+    xref: (no xref)
+  0x7FF71BC6E430 [ASCII] len=6: 'Proces'
+    xref: (no xref)
+  0x7FF71BC6E464 [ASCII] len=5: 'ctoLA'
+    xref: (no xref)
+  0x7FF71BC6E46E [ASCII] len=8: 'TimeAsFi'
+    xref: (no xref)
+  0x7FF71BC6E479 [ASCII] len=6: 'Ininnk'
+    xref: (no xref)
+  0x7FF71BC6E481 [ASCII] len=8: 'izeSz HT'
+    xref: (no xref)
+  0x7FF71BC6E491 [ASCII] len=6: ';Que\x07P'
+    xref: (no xref)
+  0x7FF71BC6E4AD [ASCII] len=6: 'trcatA'
+    xref: (no xref)
+  0x7FF71BC6E4E3 [ASCII] len=5: 'rt\nt$'
+    xref: (no xref)
+  0x7FF71BC6E535 [ASCII] len=5: 'Mdage'
+    xref: (no xref)
+  0x7FF71BC6E545 [ASCII] len=5: '__C2p'
+    xref: (no xref)
+  0x7FF71BC6E54E [ASCII] len=9: 'mi3c_han8'
+    xref: (no xref)
+  0x7FF71BC6E568 [ASCII] len=5: '\x1b1oy_'
+    xref: (no xref)
+  0x7FF71BC6E5C3 [ASCII] len=6: '\np#\x07q{'
+    xref: (no xref)
+  0x7FF71BC6E5FA [ASCII] len=11: 'SDn\x1bw}.rd@a'
+    xref: (no xref)
+  0x7FF71BC6E62B [ASCII] len=6: '"Orsrc'
+    xref: (no xref)
+  0x7FF71BC6E63D [ASCII] len=7: "`'#`'&B"
+    xref: (no xref)
+  0x7FF71BC6E678 [ASCII] len=5: 'SVWUH'
+    xref: (no xref)
+  0x7FF71BC6E81C [ASCII] len=6: '(]_^[1'
+    xref: (no xref)
+  0x7FF71BC6E8A8 [ASCII] len=6: '(]_^[H'
+    xref: (no xref)
+  0x7FF71BC6EC4C [ASCII] len=364: '<?xml version="1.0" standalone="yes"?>\n<assembly xmlns="urn:schemas-microsoft-com:asm.v1"\n          manifestVersion="1.0">\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requestedPrivileges>\n         <requestedExecutionLevel level=\'asInvoker\' uiAccess=\'false\'/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n</assembly>\n'
+    xref: (no xref)
+  0x7FF71BC6EE90 [ASCII] len=30: 'api-ms-win-crt-heap-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC6EEAF [ASCII] len=33: 'api-ms-win-crt-runtime-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC6EED1 [ASCII] len=12: 'KERNEL32.DLL'
+    xref: (no xref)
+  0x7FF71BC6EEDE [ASCII] len=10: 'USER32.dll'
+    xref: (no xref)
+  0x7FF71BC6EEE9 [ASCII] len=16: 'VCRUNTIME140.dll'
+    xref: (no xref)
+  0x7FF71BC6EF02 [ASCII] len=6: '_cexit'
+    xref: (no xref)
+  0x7FF71BC6EF0A [ASCII] len=14: 'GetProcAddress'
+    xref: (no xref)
+  0x7FF71BC6EF1A [ASCII] len=12: 'LoadLibraryA'
+    xref: (no xref)
+  0x7FF71BC6EF28 [ASCII] len=14: 'VirtualProtect'
+    xref: (no xref)
+  0x7FF71BC6EF38 [ASCII] len=11: 'MessageBoxA'
+    xref: (no xref)
+  0x7FF71BC6EF46 [ASCII] len=6: 'memcpy'
+    xref: (no xref)
+  0x7FF71BC6EF8C [ASCII] len=11: 'dbgcore.dll'
+    xref: (no xref)
+  0x7FF71BC6EF98 [ASCII] len=22: 'MiniDumpReadDumpStream'
+    xref: (no xref)
+  0x7FF71BC6EFAF [ASCII] len=17: 'MiniDumpWriteDump'
+    xref: (no xref)
+  0x7FF71BC6F094 [ASCII] len=5: '3eP\x08y'
+    xref: (no xref)
+  0x7FF71BC6F0CE [ASCII] len=13: 'Western Cape1'
+    xref: (no xref)
+  0x7FF71BC6F0E4 [ASCII] len=11: '\tCape Town1'
+    xref: (no xref)
+  0x7FF71BC6F0F9 [ASCII] len=24: 'Thawte Consulting cc1(0&'
+    xref: (no xref)
+  0x7FF71BC6F118 [ASCII] len=34: 'Certification Services Division1!0'
+    xref: (no xref)
+  0x7FF71BC6F142 [ASCII] len=28: 'Thawte Premium Server CA1(0&'
+    xref: (no xref)
+  0x7FF71BC6F16B [ASCII] len=26: 'premium-server@thawte.com0'
+    xref: (no xref)
+  0x7FF71BC6F187 [ASCII] len=14: '\r061117000000Z'
+    xref: (no xref)
+  0x7FF71BC6F196 [ASCII] len=15: '\r201230235959Z0'
+    xref: (no xref)
+  0x7FF71BC6F1BF [ASCII] len=16: 'thawte, Inc.1(0&'
+    xref: (no xref)
+  0x7FF71BC6F1D6 [ASCII] len=35: 'Certification Services Division1806'
+    xref: (no xref)
+  0x7FF71BC6F1FF [ASCII] len=49: '/(c) 2006 thawte, Inc. - For authorized use only1'
+    xref: (no xref)
+  0x7FF71BC6F23A [ASCII] len=23: 'thawte Primary Root CA0'
+    xref: (no xref)
+  0x7FF71BC6F289 [ASCII] len=7: 'l[HhIY7'
+    xref: (no xref)
+  0x7FF71BC6F2C6 [ASCII] len=5: 'tf/j8'
+    xref: (no xref)
+  0x7FF71BC6F395 [ASCII] len=5: '40200'
+    xref: (no xref)
+  0x7FF71BC6F3B0 [ASCII] len=27: 'https://www.thawte.com/cps0'
+    xref: (no xref)
+  0x7FF71BC6F3F6 [ASCII] len=5: 'WHP0@'
+    xref: (no xref)
+  0x7FF71BC6F401 [ASCII] len=5: '90705'
+    xref: (no xref)
+  0x7FF71BC6F40B [ASCII] len=50: '/http://crl.thawte.com/ThawtePremiumServerCA.crl0\r'
+    xref: (no xref)
+  0x7FF71BC6F47B [ASCII] len=6: '.zy1_c'
+    xref: (no xref)
+  0x7FF71BC6F517 [ASCII] len=16: 'thawte, Inc.1(0&'
+    xref: (no xref)
+  0x7FF71BC6F52E [ASCII] len=35: 'Certification Services Division1806'
+    xref: (no xref)
+  0x7FF71BC6F557 [ASCII] len=49: '/(c) 2006 thawte, Inc. - For authorized use only1'
+    xref: (no xref)
+  0x7FF71BC6F592 [ASCII] len=23: 'thawte Primary Root CA0'
+    xref: (no xref)
+  0x7FF71BC6F5AB [ASCII] len=14: '\r131210000000Z'
+    xref: (no xref)
+  0x7FF71BC6F5BA [ASCII] len=20: '\r231209235959Z0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC6F5E2 [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC6F5F9 [ASCII] len=30: 'thawte SHA256 Code Signing CA0'
+    xref: (no xref)
+  0x7FF71BC6F762 [ASCII] len=20: 'http://t2.symcb.com0'
+    xref: (no xref)
+  0x7FF71BC6F791 [ASCII] len=5: "+0)0'"
+    xref: (no xref)
+  0x7FF71BC6F79B [ASCII] len=35: '!http://t1.symcb.com/ThawtePCA.crl0'
+    xref: (no xref)
+  0x7FF71BC6F806 [ASCII] len=18: 'SymantecPKI-1-5680'
+    xref: (no xref)
+  0x7FF71BC6F854 [ASCII] len=5: 'WHP0\r'
+    xref: (no xref)
+  0x7FF71BC6F92B [ASCII] len=6: 'UwM^6)'
+    xref: (no xref)
+  0x7FF71BC6F934 [ASCII] len=5: 'EArWu'
+    xref: (no xref)
+  0x7FF71BC6F97D [ASCII] len=6: '-^)P/7'
+    xref: (no xref)
+  0x7FF71BC6F999 [ASCII] len=6: '0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC6F9B3 [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC6F9CA [ASCII] len=30: 'thawte SHA256 Code Signing CA0'
+    xref: (no xref)
+  0x7FF71BC6F9EA [ASCII] len=14: '\r141229000000Z'
+    xref: (no xref)
+  0x7FF71BC6F9F9 [ASCII] len=15: '\r151229235959Z0'
+    xref: (no xref)
+  0x7FF71BC6FA46 [ASCII] len=29: '\x1bNo Organization Affiliation1'
+    xref: (no xref)
+  0x7FF71BC6FA6D [ASCII] len=21: 'Individual Developer1'
+    xref: (no xref)
+  0x7FF71BC6FC17 [ASCII] len=5: '$0"0 '
+    xref: (no xref)
+  0x7FF71BC6FC22 [ASCII] len=27: 'http://tl.symcb.com/tl.crl0'
+    xref: (no xref)
+  0x7FF71BC6FC69 [ASCII] len=5: 'l0j0h'
+    xref: (no xref)
+  0x7FF71BC6FC8B [ASCII] len=28: 'https://www.thawte.com/cps0/'
+    xref: (no xref)
+  0x7FF71BC6FCB4 [ASCII] len=35: '!https://www.thawte.com/repository0'
+    xref: (no xref)
+  0x7FF71BC6FD13 [ASCII] len=21: 'http://tl.symcd.com0&'
+    xref: (no xref)
+  0x7FF71BC6FD34 [ASCII] len=27: 'http://tl.symcb.com/tl.crt0'
+    xref: (no xref)
+  0x7FF71BC6FD94 [ASCII] len=6: '_/p\r7F'
+    xref: (no xref)
+  0x7FF71BC6FDBC [ASCII] len=5: 'aJ\x07\np'
+    xref: (no xref)
+  0x7FF71BC6FE80 [ASCII] len=8: '0`0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC6FE9C [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC6FEB3 [ASCII] len=29: 'thawte SHA256 Code Signing CA'
+    xref: (no xref)
+  0x7FF71BC6FED5 [ASCII] len=6: '-^)P/7'
+    xref: (no xref)
+  0x7FF71BC6FF91 [ASCII] len=6: " a)\t'8"
+    xref: (no xref)
+  0x7FF71BC7001A [ASCII] len=5: 'K=U7F'
+    xref: (no xref)
+  0x7FF71BC7012B [ASCII] len=15: '20150401000000Z'
+    xref: (no xref)
+  0x7FF71BC70172 [ASCII] len=5: 'CN1!0'
+    xref: (no xref)
+  0x7FF71BC7017F [ASCII] len=28: 'Pikachu Trust Network CA1(0&'
+    xref: (no xref)
+  0x7FF71BC701A2 [ASCII] len=32: 'Pikachu Certification Authority1'
+    xref: (no xref)
+  0x7FF71BC701CC [ASCII] len=22: 'Pikachu Test CA RSA1!0'
+    xref: (no xref)
+  0x7FF71BC701F0 [ASCII] len=22: 'testca@certs.us.kg1%0#'
+    xref: (no xref)
+  0x7FF71BC7020D [ASCII] len=32: 'Pikachu Public Test Root RSA110/'
+    xref: (no xref)
+  0x7FF71BC70258 [ASCII] len=6: ' RSA0 '
+    xref: (no xref)
+  0x7FF71BC7025F [ASCII] len=14: '\r000101000000Z'
+    xref: (no xref)
+  0x7FF71BC7026F [ASCII] len=16: '20991231235959Z0'
+    xref: (no xref)
+  0x7FF71BC7028C [ASCII] len=5: 'CN1!0'
+    xref: (no xref)
+  0x7FF71BC70299 [ASCII] len=28: 'Pikachu Trust Network CA1(0&'
+    xref: (no xref)
+  0x7FF71BC702BC [ASCII] len=32: 'Pikachu Certification Authority1'
+    xref: (no xref)
+  0x7FF71BC702E6 [ASCII] len=22: 'Pikachu Time Sub CA1!0'
+    xref: (no xref)
+  0x7FF71BC7030A [ASCII] len=22: 'timeca@certs.us.kg1%0#'
+    xref: (no xref)
+  0x7FF71BC70327 [ASCII] len=32: 'Pikachu Time Signning Sub CA1200'
+    xref: (no xref)
+  0x7FF71BC70419 [ASCII] len=6: 'K~a6HH'
+    xref: (no xref)
+  0x7FF71BC7044A [ASCII] len=8: 'lY,<o\x0bq3'
+    xref: (no xref)
+  0x7FF71BC7047A [ASCII] len=5: ';AixV'
+    xref: (no xref)
+  0x7FF71BC704B3 [ASCII] len=5: 'COM|c'
+    xref: (no xref)
+  0x7FF71BC704C6 [ASCII] len=7: '(&h/ixm'
+    xref: (no xref)
+  0x7FF71BC70565 [ASCII] len=6: '?@S.7l'
+    xref: (no xref)
+  0x7FF71BC70572 [ASCII] len=6: 'UXpb}v'
+    xref: (no xref)
+  0x7FF71BC705AE [ASCII] len=20: 'Pikachu Time Sub CA0'
+    xref: (no xref)
+  0x7FF71BC70605 [ASCII] len=27: 'https://test.certs.us.kg/0/'
+    xref: (no xref)
+  0x7FF71BC7062B [ASCII] len=37: '#https://pikachuim.github.io/testca/0'
+    xref: (no xref)
+  0x7FF71BC70673 [ASCII] len=26: 'http://test.ocsps.us.kg/0&'
+    xref: (no xref)
+  0x7FF71BC70699 [ASCII] len=28: 'http://test.ocsps.opkg.cn/0<'
+    xref: (no xref)
+  0x7FF71BC706C0 [ASCII] len=51: '0https://test.certs.us.kg/certs/rootca/rootca.crt0F'
+    xref: (no xref)
+  0x7FF71BC706FE [ASCII] len=61: ':https://pikachuim.github.io/testca/certs/rootca/rootca.crt0>'
+    xref: (no xref)
+  0x7FF71BC70746 [ASCII] len=52: '2https://test.certs.opkg.cn/certs/rootca/rootca.crt0'
+    xref: (no xref)
+  0x7FF71BC7078E [ASCII] len=51: '0https://test.certs.us.kg/certs/rootca/rootca.crl0@'
+    xref: (no xref)
+  0x7FF71BC707C6 [ASCII] len=61: ':https://pikachuim.github.io/testca/certs/rootca/rootca.crl08'
+    xref: (no xref)
+  0x7FF71BC70808 [ASCII] len=52: '2https://test.certs.opkg.cn/certs/rootca/rootca.crl0'
+    xref: (no xref)
+  0x7FF71BC7085F [ASCII] len=21: 'Pikachu Time Sub CA0\r'
+    xref: (no xref)
+  0x7FF71BC70945 [ASCII] len=7: 'd%_FAQ\\'
+    xref: (no xref)
+  0x7FF71BC70AA3 [ASCII] len=5: 'CN1!0'
+    xref: (no xref)
+  0x7FF71BC70AB0 [ASCII] len=28: 'Pikachu Trust Network CA1(0&'
+    xref: (no xref)
+  0x7FF71BC70AD3 [ASCII] len=32: 'Pikachu Certification Authority1'
+    xref: (no xref)
+  0x7FF71BC70AFD [ASCII] len=22: 'Pikachu Test CA RSA1!0'
+    xref: (no xref)
+  0x7FF71BC70B21 [ASCII] len=22: 'testca@certs.us.kg1%0#'
+    xref: (no xref)
+  0x7FF71BC70B3E [ASCII] len=32: 'Pikachu Public Test Root RSA110/'
+    xref: (no xref)
+  0x7FF71BC70BCF [ASCII] len=16: '\r150401000000Z0#'
+    xref: (no xref)
+  0x7FF71BC70DA4 [ASCII] len=5: '1Tz<\\'
+    xref: (no xref)
+  0x7FF71BC70E1D [ASCII] len=41: '!This program cannot be run in DOS mode.$'
+    xref: (no xref)
+  0x7FF71BC70FA0 [ASCII] len=5: '.rsrc'
+    xref: (no xref)
+  0x7FF71BC70FCD [ASCII] len=6: 'UPX!\r$'
+    xref: (no xref)
+  0x7FF71BC71037 [ASCII] len=6: 'fll#\tG'
+    xref: (no xref)
+  0x7FF71BC7108F [ASCII] len=11: 'AVAUATVWUSH'
+    xref: (no xref)
+  0x7FF71BC71110 [ASCII] len=7: ';x(`r(\x08'
+    xref: (no xref)
+  0x7FF71BC71130 [ASCII] len=9: '[]_^A\\A]A'
+    xref: (no xref)
+  0x7FF71BC7118D [ASCII] len=5: 'qGC0?'
+    xref: (no xref)
+  0x7FF71BC711D7 [ASCII] len=5: 'Jf_?c'
+    xref: (no xref)
+  0x7FF71BC71308 [ASCII] len=6: 'R(-4N~'
+    xref: (no xref)
+  0x7FF71BC7131A [ASCII] len=5: '#?mFh'
+    xref: (no xref)
+  0x7FF71BC71407 [ASCII] len=5: '"zuhO'
+    xref: (no xref)
+  0x7FF71BC71497 [ASCII] len=5: 'mO\t\\1'
+    xref: (no xref)
+  0x7FF71BC716C1 [ASCII] len=9: 'I;^ sIq-,'
+    xref: (no xref)
+  0x7FF71BC71701 [ASCII] len=10: 'f0M;f8t06\x08'
+    xref: (no xref)
+  0x7FF71BC71719 [ASCII] len=5: '\x07e;{\r'
+    xref: (no xref)
+  0x7FF71BC71726 [ASCII] len=5: 'I+n(P'
+    xref: (no xref)
+  0x7FF71BC7175A [ASCII] len=7: '5H=tr2H'
+    xref: (no xref)
+  0x7FF71BC7176A [ASCII] len=5: 'MM3H7'
+    xref: (no xref)
+  0x7FF71BC7178B [ASCII] len=7: '0t\\X*,2'
+    xref: (no xref)
+  0x7FF71BC717B1 [ASCII] len=6: '<n1g& '
+    xref: (no xref)
+  0x7FF71BC717E3 [ASCII] len=8: '~8}]uVBg'
+    xref: (no xref)
+  0x7FF71BC717F7 [ASCII] len=5: 'uGPHu'
+    xref: (no xref)
+  0x7FF71BC718AA [ASCII] len=5: '!O!Z%'
+    xref: (no xref)
+  0x7FF71BC71919 [ASCII] len=5: ')\x08yA '
+    xref: (no xref)
+  0x7FF71BC71A9E [ASCII] len=5: 'kon$\r'
+    xref: (no xref)
+  0x7FF71BC71C01 [ASCII] len=5: '\tL t('
+    xref: (no xref)
+  0x7FF71BC71C9D [ASCII] len=5: 'Zh[X['
+    xref: (no xref)
+  0x7FF71BC71CAE [ASCII] len=7: '}`9*\r#5'
+    xref: (no xref)
+  0x7FF71BC71DF3 [ASCII] len=5: "*'XBp"
+    xref: (no xref)
+  0x7FF71BC71E2B [ASCII] len=7: '+|0\\`uB'
+    xref: (no xref)
+  0x7FF71BC71E33 [ASCII] len=5: 'Fpp*w'
+    xref: (no xref)
+  0x7FF71BC71E48 [ASCII] len=6: '28@HWE'
+    xref: (no xref)
+  0x7FF71BC71E61 [ASCII] len=5: 'fOW_W'
+    xref: (no xref)
+  0x7FF71BC71E6B [ASCII] len=5: 'V,WHW'
+    xref: (no xref)
+  0x7FF71BC71EBD [ASCII] len=5: 'UUU!y'
+    xref: (no xref)
+  0x7FF71BC71ECD [ASCII] len=5: 'ToUCe'
+    xref: (no xref)
+  0x7FF71BC71EFD [ASCII] len=6: "Tlz!'2"
+    xref: (no xref)
+  0x7FF71BC71F91 [ASCII] len=5: 'ER/9A'
+    xref: (no xref)
+  0x7FF71BC71FC4 [ASCII] len=6: '<4Qf&Q'
+    xref: (no xref)
+  0x7FF71BC71FDB [ASCII] len=5: '7?PrY'
+    xref: (no xref)
+  0x7FF71BC7212B [ASCII] len=6: '6A\t@i@'
+    xref: (no xref)
+  0x7FF71BC72203 [ASCII] len=5: 't[p+|'
+    xref: (no xref)
+  0x7FF71BC72209 [ASCII] len=5: '*=+\x08\n'
+    xref: (no xref)
+  0x7FF71BC7222A [ASCII] len=6: 'K\n@\tH='
+    xref: (no xref)
+  0x7FF71BC7227C [ASCII] len=6: 'gphXzo'
+    xref: (no xref)
+  0x7FF71BC722D9 [ASCII] len=7: '@r(E20G'
+    xref: (no xref)
+  0x7FF71BC72341 [ASCII] len=6: 'L9\x1bA&D'
+    xref: (no xref)
+  0x7FF71BC7236A [ASCII] len=5: 'Q#gPH'
+    xref: (no xref)
+  0x7FF71BC723E0 [ASCII] len=5: '0[_^"'
+    xref: (no xref)
+  0x7FF71BC72405 [ASCII] len=7: '`}T%6 |'
+    xref: (no xref)
+  0x7FF71BC7241F [ASCII] len=10: '9rq%q%q%y%'
+    xref: (no xref)
+  0x7FF71BC72437 [ASCII] len=5: '5= )Z'
+    xref: (no xref)
+  0x7FF71BC72463 [ASCII] len=5: '|Nr8F'
+    xref: (no xref)
+  0x7FF71BC724A0 [ASCII] len=6: '[eEFUF'
+    xref: (no xref)
+  0x7FF71BC72523 [ASCII] len=8: 'AsheQCas'
+    xref: (no xref)
+  0x7FF71BC72560 [ASCII] len=5: '\\XOG='
+    xref: (no xref)
+  0x7FF71BC725A2 [ASCII] len=5: ' ^BNF'
+    xref: (no xref)
+  0x7FF71BC725CE [ASCII] len=9: "M}Qx!'92?"
+    xref: (no xref)
+  0x7FF71BC72686 [ASCII] len=5: 'BlBM\r'
+    xref: (no xref)
+  0x7FF71BC7268C [ASCII] len=5: '\n#jS]'
+    xref: (no xref)
+  0x7FF71BC72765 [ASCII] len=8: 'y%H\\W<C<'
+    xref: (no xref)
+  0x7FF71BC7276E [ASCII] len=5: '|6/H\\'
+    xref: (no xref)
+  0x7FF71BC72784 [ASCII] len=5: '8\x0b#Z;'
+    xref: (no xref)
+  0x7FF71BC7281C [ASCII] len=5: 'r+X-"'
+    xref: (no xref)
+  0x7FF71BC72846 [ASCII] len=5: '7L7%G'
+    xref: (no xref)
+  0x7FF71BC72862 [ASCII] len=5: '7M<w7'
+    xref: (no xref)
+  0x7FF71BC728DB [ASCII] len=5: '<Oh45'
+    xref: (no xref)
+  0x7FF71BC72911 [ASCII] len=7: '94&49 \x07'
+    xref: (no xref)
+  0x7FF71BC72919 [ASCII] len=6: 'H4j4l4'
+    xref: (no xref)
+  0x7FF71BC72939 [ASCII] len=5: 'P7P_P'
+    xref: (no xref)
+  0x7FF71BC72940 [ASCII] len=6: "\\.'<|P"
+    xref: (no xref)
+  0x7FF71BC7294D [ASCII] len=8: 'f3_3F3H^'
+    xref: (no xref)
+  0x7FF71BC72957 [ASCII] len=5: '?3~3t'
+    xref: (no xref)
+  0x7FF71BC729E1 [ASCII] len=7: '(-5(`G\t'
+    xref: (no xref)
+  0x7FF71BC729F0 [ASCII] len=5: '5111\t'
+    xref: (no xref)
+  0x7FF71BC72A68 [ASCII] len=6: 'KaisaE'
+    xref: (no xref)
+  0x7FF71BC72A6F [ASCII] len=5: '9!A.@'
+    xref: (no xref)
+  0x7FF71BC72A76 [ASCII] len=5: 'Bo40S'
+    xref: (no xref)
+  0x7FF71BC72A81 [ASCII] len=5: '<UG^r'
+    xref: (no xref)
+  0x7FF71BC72A92 [ASCII] len=5: "'V0r0"
+    xref: (no xref)
+  0x7FF71BC72AFD [ASCII] len=5: '.E:6<'
+    xref: (no xref)
+  0x7FF71BC72B1F [ASCII] len=6: '\\l#.\\l'
+    xref: (no xref)
+  0x7FF71BC72B2B [ASCII] len=5: 'x-c\x08.'
+    xref: (no xref)
+  0x7FF71BC72B5D [ASCII] len=5: 'LWWW!'
+    xref: (no xref)
+  0x7FF71BC72BF0 [ASCII] len=5: '|Nrp)'
+    xref: (no xref)
+  0x7FF71BC72C2A [ASCII] len=5: '\x08(J^r'
+    xref: (no xref)
+  0x7FF71BC72C77 [ASCII] len=6: 'B $\x08Ps'
+    xref: (no xref)
+  0x7FF71BC72CA8 [ASCII] len=6: 'BF.B%%'
+    xref: (no xref)
+  0x7FF71BC72D63 [ASCII] len=7: ' @ B r@'
+    xref: (no xref)
+  0x7FF71BC72E99 [ASCII] len=5: 'D`(vh'
+    xref: (no xref)
+  0x7FF71BC72E9F [ASCII] len=10: '+kzks/@08\n'
+    xref: (no xref)
+  0x7FF71BC72EC8 [ASCII] len=5: 'SOoks'
+    xref: (no xref)
+  0x7FF71BC72ED4 [ASCII] len=5: "A:'-K"
+    xref: (no xref)
+  0x7FF71BC72F66 [ASCII] len=5: 'z;W1\x1b'
+    xref: (no xref)
+  0x7FF71BC72FB5 [ASCII] len=6: 'Y5M5M6'
+    xref: (no xref)
+  0x7FF71BC7307C [ASCII] len=5: 'Xl6N$'
+    xref: (no xref)
+  0x7FF71BC730D2 [ASCII] len=8: 'sru_drag'
+    xref: (no xref)
+  0x7FF71BC730E3 [ASCII] len=8: 'SRU_Baro'
+    xref: (no xref)
+  0x7FF71BC73167 [ASCII] len=6: '}\x0bH<_,'
+    xref: (no xref)
+  0x7FF71BC731B5 [ASCII] len=6: '[0\r8_r'
+    xref: (no xref)
+  0x7FF71BC731DB [ASCII] len=7: '55 *YF`'
+    xref: (no xref)
+  0x7FF71BC7322B [ASCII] len=5: 'B.; R'
+    xref: (no xref)
+  0x7FF71BC73231 [ASCII] len=7: '=nBq%P?'
+    xref: (no xref)
+  0x7FF71BC73284 [ASCII] len=6: 'z6Z%&X'
+    xref: (no xref)
+  0x7FF71BC73314 [ASCII] len=8: '\r`d\n/9$/'
+    xref: (no xref)
+  0x7FF71BC7339D [ASCII] len=5: '\x0bN\x0b+\x0b'
+    xref: (no xref)
+  0x7FF71BC733B5 [ASCII] len=5: 'r \x0b"\x0b'
+    xref: (no xref)
+  0x7FF71BC733D5 [ASCII] len=7: 'u:"T\'\x079'
+    xref: (no xref)
+  0x7FF71BC73474 [ASCII] len=6: '6{OM@0'
+    xref: (no xref)
+  0x7FF71BC734A6 [ASCII] len=5: '|."~u'
+    xref: (no xref)
+  0x7FF71BC734CB [ASCII] len=6: 'BL;%M\x08'
+    xref: (no xref)
+  0x7FF71BC7355B [ASCII] len=5: '%z=/`'
+    xref: (no xref)
+  0x7FF71BC735F1 [ASCII] len=5: ' Y*BZ'
+    xref: (no xref)
+  0x7FF71BC7370A [ASCII] len=5: 'Zn>\n9'
+    xref: (no xref)
+  0x7FF71BC738AE [ASCII] len=5: '^rH^J'
+    xref: (no xref)
+  0x7FF71BC73ADD [ASCII] len=7: 'QFo\x08{@>'
+    xref: (no xref)
+  0x7FF71BC73B47 [ASCII] len=5: 'T!7_J'
+    xref: (no xref)
+  0x7FF71BC73F00 [ASCII] len=6: 'AN=5/S'
+    xref: (no xref)
+  0x7FF71BC73F91 [ASCII] len=5: ' vZJ\r'
+    xref: (no xref)
+  0x7FF71BC740E7 [ASCII] len=5: "#'y!k"
+    xref: (no xref)
+  0x7FF71BC7410F [ASCII] len=5: "@.'9m"
+    xref: (no xref)
+  0x7FF71BC74316 [ASCII] len=5: '.?xl('
+    xref: (no xref)
+  0x7FF71BC74411 [ASCII] len=5: "`'G>E"
+    xref: (no xref)
+  0x7FF71BC74616 [ASCII] len=6: 'r0xM.3'
+    xref: (no xref)
+  0x7FF71BC74620 [ASCII] len=6: ' O>Ci9'
+    xref: (no xref)
+  0x7FF71BC74717 [ASCII] len=5: ']!PsY'
+    xref: (no xref)
+  0x7FF71BC74847 [ASCII] len=5: 'tc\\2H'
+    xref: (no xref)
+  0x7FF71BC748AB [ASCII] len=5: ')\\eJ%'
+    xref: (no xref)
+  0x7FF71BC7494A [ASCII] len=7: 'E\x0bQ<d.9'
+    xref: (no xref)
+  0x7FF71BC74965 [ASCII] len=5: '(LdNI'
+    xref: (no xref)
+  0x7FF71BC74AA1 [ASCII] len=6: '#X=B="'
+    xref: (no xref)
+  0x7FF71BC74B74 [ASCII] len=5: ';N%OP'
+    xref: (no xref)
+  0x7FF71BC74B94 [ASCII] len=5: '\x0bP^A^'
+    xref: (no xref)
+  0x7FF71BC74BAB [ASCII] len=5: 'P8dO&'
+    xref: (no xref)
+  0x7FF71BC74DBD [ASCII] len=5: '?n> y'
+    xref: (no xref)
+  0x7FF71BC74E43 [ASCII] len=5: 'u\x07\x08td'
+    xref: (no xref)
+  0x7FF71BC74EE7 [ASCII] len=5: 'CnT6R'
+    xref: (no xref)
+  0x7FF71BC74FFF [ASCII] len=5: "l^%'i"
+    xref: (no xref)
+  0x7FF71BC751C7 [ASCII] len=5: '=O$\x07@'
+    xref: (no xref)
+  0x7FF71BC751E0 [ASCII] len=5: 'hQ_Sq'
+    xref: (no xref)
+  0x7FF71BC751E9 [ASCII] len=10: '=t\x1b9rdY_a_'
+    xref: (no xref)
+  0x7FF71BC75273 [ASCII] len=5: '~L~\x08!'
+    xref: (no xref)
+  0x7FF71BC752D8 [ASCII] len=6: 'o4/FrH'
+    xref: (no xref)
+  0x7FF71BC752E0 [ASCII] len=5: 'Z*}Gv'
+    xref: (no xref)
+  0x7FF71BC752FC [ASCII] len=7: "/`y'y!'"
+    xref: (no xref)
+  0x7FF71BC75316 [ASCII] len=6: 'zzcK|9'
+    xref: (no xref)
+  0x7FF71BC75334 [ASCII] len=5: '|\t|\rW'
+    xref: (no xref)
+  0x7FF71BC75359 [ASCII] len=5: 'W$<W{'
+    xref: (no xref)
+  0x7FF71BC753A6 [ASCII] len=5: '8y_2h'
+    xref: (no xref)
+  0x7FF71BC753E2 [ASCII] len=6: "\rL\x07x'9"
+    xref: (no xref)
+  0x7FF71BC7540F [ASCII] len=6: 'g\x0b=bT\x0b'
+    xref: (no xref)
+  0x7FF71BC75461 [ASCII] len=6: '\\utuu!'
+    xref: (no xref)
+  0x7FF71BC75494 [ASCII] len=5: 'A\x1b\\"B'
+    xref: (no xref)
+  0x7FF71BC754C6 [ASCII] len=6: 'a/#s3s'
+    xref: (no xref)
+  0x7FF71BC7550C [ASCII] len=5: '/.qwq'
+    xref: (no xref)
+  0x7FF71BC7551E [ASCII] len=7: "p6q&q'y"
+    xref: (no xref)
+  0x7FF71BC75527 [ASCII] len=6: '\x1bqMo\tX'
+    xref: (no xref)
+  0x7FF71BC75545 [ASCII] len=5: 'o`or@'
+    xref: (no xref)
+  0x7FF71BC7554C [ASCII] len=6: 'Jo0o:o'
+    xref: (no xref)
+  0x7FF71BC75567 [ASCII] len=5: 'oinVn'
+    xref: (no xref)
+  0x7FF71BC7566D [ASCII] len=5: 'U*Q-8'
+    xref: (no xref)
+  0x7FF71BC756E1 [ASCII] len=5: 'HF{TL'
+    xref: (no xref)
+  0x7FF71BC756F3 [ASCII] len=8: 'TwitchDe'
+    xref: (no xref)
+  0x7FF71BC75926 [ASCII] len=5: 'O\x1bpP\x08'
+    xref: (no xref)
+  0x7FF71BC7598C [ASCII] len=5: 'rr HH'
+    xref: (no xref)
+  0x7FF71BC75A70 [ASCII] len=7: 'kalista'
+    xref: (no xref)
+  0x7FF71BC75B6E [ASCII] len=5: "!'LI_"
+    xref: (no xref)
+  0x7FF71BC75BF0 [ASCII] len=9: '\rX>S>\x07(K7'
+    xref: (no xref)
+  0x7FF71BC75BFC [ASCII] len=5: '<(!-$'
+    xref: (no xref)
+  0x7FF71BC75CC4 [ASCII] len=5: '=A)0,'
+    xref: (no xref)
+  0x7FF71BC75CCC [ASCII] len=5: '0KLd '
+    xref: (no xref)
+  0x7FF71BC75D04 [ASCII] len=5: ';V` p'
+    xref: (no xref)
+  0x7FF71BC75DAA [ASCII] len=5: '%Gw<\x08'
+    xref: (no xref)
+  0x7FF71BC75DDA [ASCII] len=7: '6M@66r@'
+    xref: (no xref)
+  0x7FF71BC75EAB [ASCII] len=8: '2El=Ntw6'
+    xref: (no xref)
+  0x7FF71BC75EFB [ASCII] len=5: 'JF,\rv'
+    xref: (no xref)
+  0x7FF71BC75F02 [ASCII] len=6: '8N,@I@'
+    xref: (no xref)
+  0x7FF71BC75F48 [ASCII] len=8: '\\`px W$\x07'
+    xref: (no xref)
+  0x7FF71BC75F5E [ASCII] len=7: ' (yEr 8'
+    xref: (no xref)
+  0x7FF71BC75FA8 [ASCII] len=6: 'pO 02 '
+    xref: (no xref)
+  0x7FF71BC75FE1 [ASCII] len=9: 'SH\x08\x1b/|\x0bNh'
+    xref: (no xref)
+  0x7FF71BC760B4 [ASCII] len=5: '2|kS?'
+    xref: (no xref)
+  0x7FF71BC760BA [ASCII] len=5: '2/j{4'
+    xref: (no xref)
+  0x7FF71BC76138 [ASCII] len=5: ' vlU2'
+    xref: (no xref)
+  0x7FF71BC76161 [ASCII] len=5: 'D9J\x08w'
+    xref: (no xref)
+  0x7FF71BC76197 [ASCII] len=5: 'by^_]'
+    xref: (no xref)
+  0x7FF71BC76203 [ASCII] len=5: ',"xM/'
+    xref: (no xref)
+  0x7FF71BC76270 [ASCII] len=5: 'A\x1b\x1bO0'
+    xref: (no xref)
+  0x7FF71BC76283 [ASCII] len=5: '{@\x08w\x0b'
+    xref: (no xref)
+  0x7FF71BC762F2 [ASCII] len=6: 'va\r\x08 r'
+    xref: (no xref)
+  0x7FF71BC76399 [ASCII] len=5: '<\x1bN3<'
+    xref: (no xref)
+  0x7FF71BC76513 [ASCII] len=7: '.t<Uf}H'
+    xref: (no xref)
+  0x7FF71BC76528 [ASCII] len=6: 'I;\x08u#v'
+    xref: (no xref)
+  0x7FF71BC7657E [ASCII] len=5: '{3GcQ'
+    xref: (no xref)
+  0x7FF71BC765DC [ASCII] len=6: '\x07417ml'
+    xref: (no xref)
+  0x7FF71BC765E4 [ASCII] len=8: '.9l5\n\x08r0'
+    xref: (no xref)
+  0x7FF71BC7660A [ASCII] len=8: '\x0bJ$hRc-z'
+    xref: (no xref)
+  0x7FF71BC76628 [ASCII] len=5: 'Z\x07tK\x08'
+    xref: (no xref)
+  0x7FF71BC76888 [ASCII] len=5: '=l\x08tN'
+    xref: (no xref)
+  0x7FF71BC768FF [ASCII] len=5: '|iI[+'
+    xref: (no xref)
+  0x7FF71BC76951 [ASCII] len=8: '7\x07/ov,MK'
+    xref: (no xref)
+  0x7FF71BC76972 [ASCII] len=6: '[4(&aC'
+    xref: (no xref)
+  0x7FF71BC76AB1 [ASCII] len=6: 'f \\?&9'
+    xref: (no xref)
+  0x7FF71BC76B01 [ASCII] len=5: 'gF0iL'
+    xref: (no xref)
+  0x7FF71BC76B1C [ASCII] len=10: 'PickACarQI'
+    xref: (no xref)
+  0x7FF71BC76C0A [ASCII] len=5: 'MGf\\C'
+    xref: (no xref)
+  0x7FF71BC76C17 [ASCII] len=6: 'uqHc\r '
+    xref: (no xref)
+  0x7FF71BC76CE4 [ASCII] len=5: 'G,:O|'
+    xref: (no xref)
+  0x7FF71BC76D43 [ASCII] len=5: '][SRL'
+    xref: (no xref)
+  0x7FF71BC76D78 [ASCII] len=5: ')\x0bAN>'
+    xref: (no xref)
+  0x7FF71BC76DDA [ASCII] len=6: ')!&A\x1b0'
+    xref: (no xref)
+  0x7FF71BC76E30 [ASCII] len=5: 'ineI\x0b'
+    xref: (no xref)
+  0x7FF71BC76F1F [ASCII] len=6: 'zg$\x1btX'
+    xref: (no xref)
+  0x7FF71BC76FC3 [ASCII] len=5: ')O8K\r'
+    xref: (no xref)
+  0x7FF71BC77043 [ASCII] len=7: 't}A6\x08+2'
+    xref: (no xref)
+  0x7FF71BC7714D [ASCII] len=5: 'xb0 @'
+    xref: (no xref)
+  0x7FF71BC771A6 [ASCII] len=8: '6Q2"\x1bt_s'
+    xref: (no xref)
+  0x7FF71BC77209 [ASCII] len=8: 'hn\x08myL,O'
+    xref: (no xref)
+  0x7FF71BC7727F [ASCII] len=5: '\ry3&R'
+    xref: (no xref)
+  0x7FF71BC77345 [ASCII] len=6: 'Uh\x1bkKD'
+    xref: (no xref)
+  0x7FF71BC7736E [ASCII] len=5: '!B:d('
+    xref: (no xref)
+  0x7FF71BC77479 [ASCII] len=5: '<yQ0f'
+    xref: (no xref)
+  0x7FF71BC774A3 [ASCII] len=5: '6y\x07[/'
+    xref: (no xref)
+  0x7FF71BC774E7 [ASCII] len=9: ' Ofhugl O'
+    xref: (no xref)
+  0x7FF71BC77515 [ASCII] len=6: '[Hlue\x07'
+    xref: (no xref)
+  0x7FF71BC77520 [ASCII] len=9: 'Gold\x08Re\x07L'
+    xref: (no xref)
+  0x7FF71BC77559 [ASCII] len=9: 'o?`SIron '
+    xref: (no xref)
+  0x7FF71BC77563 [ASCII] len=5: 'venan'
+    xref: (no xref)
+  0x7FF71BC77572 [ASCII] len=5: 'oyal '
+    xref: (no xref)
+  0x7FF71BC77578 [ASCII] len=5: 'm\nH\x08o'
+    xref: (no xref)
+  0x7FF71BC7757F [ASCII] len=10: 'o\tof Leg d'
+    xref: (no xref)
+  0x7FF71BC7758A [ASCII] len=6: 'Ze. ho'
+    xref: (no xref)
+  0x7FF71BC775AE [ASCII] len=10: 'UnknowWexc'
+    xref: (no xref)
+  0x7FF71BC775BC [ASCII] len=14: 'eptiaHeadn"Sto'
+    xref: (no xref)
+  0x7FF71BC775DE [ASCII] len=9: 'ahn-Uzs&D'
+    xref: (no xref)
+  0x7FF71BC775EE [ASCII] len=13: 'b5\x07ray new on'
+    xref: (no xref)
+  0x7FF71BC77602 [ASCII] len=8: 'map/szGo'
+    xref: (no xref)
+  0x7FF71BC7764E [ASCII] len=8: 'g\tRivn\x0b8'
+    xref: (no xref)
+  0x7FF71BC7769C [ASCII] len=6: 'sk6lkm'
+    xref: (no xref)
+  0x7FF71BC776AD [ASCII] len=7: 'd5554MF'
+    xref: (no xref)
+  0x7FF71BC776B5 [ASCII] len=6: '9443n%'
+    xref: (no xref)
+  0x7FF71BC7773F [ASCII] len=7: '}$}/8}$'
+    xref: (no xref)
+  0x7FF71BC77748 [ASCII] len=6: '<D}Vb '
+    xref: (no xref)
+  0x7FF71BC77761 [ASCII] len=9: 'A .~oD~!O'
+    xref: (no xref)
+  0x7FF71BC7776B [ASCII] len=8: '<\\~l~x~ '
+    xref: (no xref)
+  0x7FF71BC77847 [ASCII] len=7: 'P?w\n4\nR'
+    xref: (no xref)
+  0x7FF71BC778E0 [ASCII] len=5: 'hdx?['
+    xref: (no xref)
+  0x7FF71BC7790B [ASCII] len=8: '0\x0bP\np\t`\x08'
+    xref: (no xref)
+  0x7FF71BC7793E [ASCII] len=6: '4M\x08\t\n\x0b'
+    xref: (no xref)
+  0x7FF71BC7794B [ASCII] len=8: 'd?dh;^xM'
+    xref: (no xref)
+  0x7FF71BC7795A [ASCII] len=7: '\x08?\t\n\x0b%M'
+    xref: (no xref)
+  0x7FF71BC77984 [ASCII] len=6: '[h\x1b\x0bGv'
+    xref: (no xref)
+  0x7FF71BC779CC [ASCII] len=7: 'm\rK\rs\x07R'
+    xref: (no xref)
+  0x7FF71BC779E9 [ASCII] len=11: 'B\x080\x07Puks\x08g8'
+    xref: (no xref)
+  0x7FF71BC77A38 [ASCII] len=7: 'Eu\x08dGHu'
+    xref: (no xref)
+  0x7FF71BC77A47 [ASCII] len=8: '.?AVS___'
+    xref: (no xref)
+  0x7FF71BC77A53 [ASCII] len=7: '@std@@/'
+    xref: (no xref)
+  0x7FF71BC77A6E [ASCII] len=5: 'ype_i'
+    xref: (no xref)
+  0x7FF71BC77AFB [ASCII] len=5: 'k\x07n0#'
+    xref: (no xref)
+  0x7FF71BC77B1F [ASCII] len=6: ':>,@\x07i'
+    xref: (no xref)
+  0x7FF71BC77B3B [ASCII] len=7: '@\x0b \x079BG'
+    xref: (no xref)
+  0x7FF71BC77B44 [ASCII] len=9: 'mw@\x07uG#\\\x07'
+    xref: (no xref)
+  0x7FF71BC77B7D [ASCII] len=5: 'RS*R '
+    xref: (no xref)
+  0x7FF71BC77BB9 [ASCII] len=5: 'YUH3X'
+    xref: (no xref)
+  0x7FF71BC77BCF [ASCII] len=5: '0Hs0E'
+    xref: (no xref)
+  0x7FF71BC77BD6 [ASCII] len=5: '\x08fg]W'
+    xref: (no xref)
+  0x7FF71BC77BE3 [ASCII] len=5: '@S\x07sX'
+    xref: (no xref)
+  0x7FF71BC77BEF [ASCII] len=8: 'Y/, Z%[L'
+    xref: (no xref)
+  0x7FF71BC77C06 [ASCII] len=5: ']\x07f]g'
+    xref: (no xref)
+  0x7FF71BC77C33 [ASCII] len=5: '@_gvM'
+    xref: (no xref)
+  0x7FF71BC77C4E [ASCII] len=6: '`_\x07N\x0bP'
+    xref: (no xref)
+  0x7FF71BC77C77 [ASCII] len=11: 'ble^Library'
+    xref: (no xref)
+  0x7FF71BC77C8A [ASCII] len=6: 'GetCur'
+    xref: (no xref)
+  0x7FF71BC77C95 [ASCII] len=11: 'ntProcessId'
+    xref: (no xref)
+  0x7FF71BC77CA7 [ASCII] len=10: '%ModuWHand'
+    xref: (no xref)
+  0x7FF71BC77CB8 [ASCII] len=7: 'EAdd#s\\'
+    xref: (no xref)
+  0x7FF71BC77CC5 [ASCII] len=5: 'emTim'
+    xref: (no xref)
+  0x7FF71BC77CD5 [ASCII] len=6: 'Initi#'
+    xref: (no xref)
+  0x7FF71BC77CE1 [ASCII] len=6: ' HcQue'
+    xref: (no xref)
+  0x7FF71BC77CF1 [ASCII] len=5: 'Coun.'
+    xref: (no xref)
+  0x7FF71BC77D1E [ASCII] len=7: 'k!begi<'
+    xref: (no xref)
+  0x7FF71BC77D2E [ASCII] len=7: 'q\x07onfig'
+    xref: (no xref)
+  0x7FF71BC77D4C [ASCII] len=9: 't$+ecute_'
+    xref: (no xref)
+  0x7FF71BC77D66 [ASCII] len=5: 'vi\x07nm'
+    xref: (no xref)
+  0x7FF71BC77DB1 [ASCII] len=6: 'YAXH@Z'
+    xref: (no xref)
+  0x7FF71BC77DBF [ASCII] len=5: 'T5!X '
+    xref: (no xref)
+  0x7FF71BC77DC8 [ASCII] len=5: ' =PEB'
+    xref: (no xref)
+  0x7FF71BC77DF0 [ASCII] len=7: 'wa\nMtx_'
+    xref: (no xref)
+  0x7FF71BC77E1C [ASCII] len=9: 'ach\rid\tjo'
+    xref: (no xref)
+  0x7FF71BC77E32 [ASCII] len=9: 'my7KeySt('
+    xref: (no xref)
+  0x7FF71BC77E43 [ASCII] len=5: '`MapV'
+    xref: (no xref)
+  0x7FF71BC77EE4 [ASCII] len=6: 'M\n0`uf'
+    xref: (no xref)
+  0x7FF71BC77EFC [ASCII] len=5: '`4%le'
+    xref: (no xref)
+  0x7FF71BC77F3F [ASCII] len=9: '\r\n`.rdata'
+    xref: (no xref)
+  0x7FF71BC77F70 [ASCII] len=8: '`Orsrc^\x1b'
+    xref: (no xref)
+  0x7FF71BC77FB8 [ASCII] len=5: 'SVWUH'
+    xref: (no xref)
+  0x7FF71BC7815C [ASCII] len=6: '(]_^[1'
+    xref: (no xref)
+  0x7FF71BC781E8 [ASCII] len=6: '(]_^[H'
+    xref: (no xref)
+  0x7FF71BC7842C [ASCII] len=364: '<?xml version="1.0" standalone="yes"?>\n<assembly xmlns="urn:schemas-microsoft-com:asm.v1"\n          manifestVersion="1.0">\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requestedPrivileges>\n         <requestedExecutionLevel level=\'asInvoker\' uiAccess=\'false\'/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n</assembly>\n'
+    xref: (no xref)
+  0x7FF71BC78694 [ASCII] len=30: 'api-ms-win-crt-heap-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC786B3 [ASCII] len=33: 'api-ms-win-crt-runtime-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC786D5 [ASCII] len=12: 'KERNEL32.DLL'
+    xref: (no xref)
+  0x7FF71BC786E2 [ASCII] len=12: 'MSVCP140.dll'
+    xref: (no xref)
+  0x7FF71BC786EF [ASCII] len=10: 'USER32.dll'
+    xref: (no xref)
+  0x7FF71BC786FA [ASCII] len=16: 'VCRUNTIME140.dll'
+    xref: (no xref)
+  0x7FF71BC78714 [ASCII] len=6: '_cexit'
+    xref: (no xref)
+  0x7FF71BC7871C [ASCII] len=14: 'GetProcAddress'
+    xref: (no xref)
+  0x7FF71BC7872C [ASCII] len=12: 'LoadLibraryA'
+    xref: (no xref)
+  0x7FF71BC7873A [ASCII] len=14: 'VirtualProtect'
+    xref: (no xref)
+  0x7FF71BC7874A [ASCII] len=8: '_Thrd_id'
+    xref: (no xref)
+  0x7FF71BC78754 [ASCII] len=8: 'SetTimer'
+    xref: (no xref)
+  0x7FF71BC7875E [ASCII] len=6: 'memcpy'
+    xref: (no xref)
+  0x7FF71BC78874 [ASCII] len=5: '3eP\x08y'
+    xref: (no xref)
+  0x7FF71BC788AE [ASCII] len=13: 'Western Cape1'
+    xref: (no xref)
+  0x7FF71BC788C4 [ASCII] len=11: '\tCape Town1'
+    xref: (no xref)
+  0x7FF71BC788D9 [ASCII] len=24: 'Thawte Consulting cc1(0&'
+    xref: (no xref)
+  0x7FF71BC788F8 [ASCII] len=34: 'Certification Services Division1!0'
+    xref: (no xref)
+  0x7FF71BC78922 [ASCII] len=28: 'Thawte Premium Server CA1(0&'
+    xref: (no xref)
+  0x7FF71BC7894B [ASCII] len=26: 'premium-server@thawte.com0'
+    xref: (no xref)
+  0x7FF71BC78967 [ASCII] len=14: '\r061117000000Z'
+    xref: (no xref)
+  0x7FF71BC78976 [ASCII] len=15: '\r201230235959Z0'
+    xref: (no xref)
+  0x7FF71BC7899F [ASCII] len=16: 'thawte, Inc.1(0&'
+    xref: (no xref)
+  0x7FF71BC789B6 [ASCII] len=35: 'Certification Services Division1806'
+    xref: (no xref)
+  0x7FF71BC789DF [ASCII] len=49: '/(c) 2006 thawte, Inc. - For authorized use only1'
+    xref: (no xref)
+  0x7FF71BC78A1A [ASCII] len=23: 'thawte Primary Root CA0'
+    xref: (no xref)
+  0x7FF71BC78A69 [ASCII] len=7: 'l[HhIY7'
+    xref: (no xref)
+  0x7FF71BC78AA6 [ASCII] len=5: 'tf/j8'
+    xref: (no xref)
+  0x7FF71BC78B75 [ASCII] len=5: '40200'
+    xref: (no xref)
+  0x7FF71BC78B90 [ASCII] len=27: 'https://www.thawte.com/cps0'
+    xref: (no xref)
+  0x7FF71BC78BD6 [ASCII] len=5: 'WHP0@'
+    xref: (no xref)
+  0x7FF71BC78BE1 [ASCII] len=5: '90705'
+    xref: (no xref)
+  0x7FF71BC78BEB [ASCII] len=50: '/http://crl.thawte.com/ThawtePremiumServerCA.crl0\r'
+    xref: (no xref)
+  0x7FF71BC78C5B [ASCII] len=6: '.zy1_c'
+    xref: (no xref)
+  0x7FF71BC78CF7 [ASCII] len=16: 'thawte, Inc.1(0&'
+    xref: (no xref)
+  0x7FF71BC78D0E [ASCII] len=35: 'Certification Services Division1806'
+    xref: (no xref)
+  0x7FF71BC78D37 [ASCII] len=49: '/(c) 2006 thawte, Inc. - For authorized use only1'
+    xref: (no xref)
+  0x7FF71BC78D72 [ASCII] len=23: 'thawte Primary Root CA0'
+    xref: (no xref)
+  0x7FF71BC78D8B [ASCII] len=14: '\r131210000000Z'
+    xref: (no xref)
+  0x7FF71BC78D9A [ASCII] len=20: '\r231209235959Z0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC78DC2 [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC78DD9 [ASCII] len=30: 'thawte SHA256 Code Signing CA0'
+    xref: (no xref)
+  0x7FF71BC78F42 [ASCII] len=20: 'http://t2.symcb.com0'
+    xref: (no xref)
+  0x7FF71BC78F71 [ASCII] len=5: "+0)0'"
+    xref: (no xref)
+  0x7FF71BC78F7B [ASCII] len=35: '!http://t1.symcb.com/ThawtePCA.crl0'
+    xref: (no xref)
+  0x7FF71BC78FE6 [ASCII] len=18: 'SymantecPKI-1-5680'
+    xref: (no xref)
+  0x7FF71BC79034 [ASCII] len=5: 'WHP0\r'
+    xref: (no xref)
+  0x7FF71BC7910B [ASCII] len=6: 'UwM^6)'
+    xref: (no xref)
+  0x7FF71BC79114 [ASCII] len=5: 'EArWu'
+    xref: (no xref)
+  0x7FF71BC7915D [ASCII] len=6: '-^)P/7'
+    xref: (no xref)
+  0x7FF71BC79179 [ASCII] len=6: '0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC79193 [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC791AA [ASCII] len=30: 'thawte SHA256 Code Signing CA0'
+    xref: (no xref)
+  0x7FF71BC791CA [ASCII] len=14: '\r141229000000Z'
+    xref: (no xref)
+  0x7FF71BC791D9 [ASCII] len=15: '\r151229235959Z0'
+    xref: (no xref)
+  0x7FF71BC79226 [ASCII] len=29: '\x1bNo Organization Affiliation1'
+    xref: (no xref)
+  0x7FF71BC7924D [ASCII] len=21: 'Individual Developer1'
+    xref: (no xref)
+  0x7FF71BC793F7 [ASCII] len=5: '$0"0 '
+    xref: (no xref)
+  0x7FF71BC79402 [ASCII] len=27: 'http://tl.symcb.com/tl.crl0'
+    xref: (no xref)
+  0x7FF71BC79449 [ASCII] len=5: 'l0j0h'
+    xref: (no xref)
+  0x7FF71BC7946B [ASCII] len=28: 'https://www.thawte.com/cps0/'
+    xref: (no xref)
+  0x7FF71BC79494 [ASCII] len=35: '!https://www.thawte.com/repository0'
+    xref: (no xref)
+  0x7FF71BC794F3 [ASCII] len=21: 'http://tl.symcd.com0&'
+    xref: (no xref)
+  0x7FF71BC79514 [ASCII] len=27: 'http://tl.symcb.com/tl.crt0'
+    xref: (no xref)
+  0x7FF71BC79574 [ASCII] len=6: '_/p\r7F'
+    xref: (no xref)
+  0x7FF71BC7959C [ASCII] len=5: 'aJ\x07\np'
+    xref: (no xref)
+  0x7FF71BC79660 [ASCII] len=8: '0`0L1\x0b0\t'
+    xref: (no xref)
+  0x7FF71BC7967C [ASCII] len=16: 'thawte, Inc.1&0$'
+    xref: (no xref)
+  0x7FF71BC79693 [ASCII] len=29: 'thawte SHA256 Code Signing CA'
+    xref: (no xref)
+  0x7FF71BC796B5 [ASCII] len=6: '-^)P/7'
+    xref: (no xref)
+  0x7FF71BC797B6 [ASCII] len=5: '<F#*U'
+    xref: (no xref)
+  0x7FF71BC7981C [ASCII] len=6: '`b\x07O.L'
+    xref: (no xref)
+  0x7FF71BC7982C [ASCII] len=7: 'b2ucH;\t'
+    xref: (no xref)
+  0x7FF71BC7990E [ASCII] len=15: '20150401000000Z'
+    xref: (no xref)
+  0x7FF71BC79955 [ASCII] len=5: 'CN1!0'
+    xref: (no xref)
+  0x7FF71BC79962 [ASCII] len=28: 'Pikachu Trust Network CA1(0&'
+    xref: (no xref)
+  0x7FF71BC79985 [ASCII] len=32: 'Pikachu Certification Authority1'
+    xref: (no xref)
+  0x7FF71BC799AF [ASCII] len=22: 'Pikachu Test CA RSA1!0'
+    xref: (no xref)
+  0x7FF71BC799D3 [ASCII] len=22: 'testca@certs.us.kg1%0#'
+    xref: (no xref)
+  0x7FF71BC799F0 [ASCII] len=32: 'Pikachu Public Test Root RSA110/'
+    xref: (no xref)
+  0x7FF71BC79A3B [ASCII] len=6: ' RSA0 '
+    xref: (no xref)
+  0x7FF71BC79A42 [ASCII] len=14: '\r000101000000Z'
+    xref: (no xref)
+  0x7FF71BC79A52 [ASCII] len=16: '20991231235959Z0'
+    xref: (no xref)
+  0x7FF71BC79A6F [ASCII] len=5: 'CN1!0'
+    xref: (no xref)
+  0x7FF71BC79A7C [ASCII] len=28: 'Pikachu Trust Network CA1(0&'
+    xref: (no xref)
+  0x7FF71BC79A9F [ASCII] len=32: 'Pikachu Certification Authority1'
+    xref: (no xref)
+  0x7FF71BC79AC9 [ASCII] len=22: 'Pikachu Time Sub CA1!0'
+    xref: (no xref)
+  0x7FF71BC79AED [ASCII] len=22: 'timeca@certs.us.kg1%0#'
+    xref: (no xref)
+  0x7FF71BC79B0A [ASCII] len=32: 'Pikachu Time Signning Sub CA1200'
+    xref: (no xref)
+  0x7FF71BC79BFC [ASCII] len=6: 'K~a6HH'
+    xref: (no xref)
+  0x7FF71BC79C2D [ASCII] len=8: 'lY,<o\x0bq3'
+    xref: (no xref)
+  0x7FF71BC79C5D [ASCII] len=5: ';AixV'
+    xref: (no xref)
+  0x7FF71BC79C96 [ASCII] len=5: 'COM|c'
+    xref: (no xref)
+  0x7FF71BC79CA9 [ASCII] len=7: '(&h/ixm'
+    xref: (no xref)
+  0x7FF71BC79D48 [ASCII] len=6: '?@S.7l'
+    xref: (no xref)
+  0x7FF71BC79D55 [ASCII] len=6: 'UXpb}v'
+    xref: (no xref)
+  0x7FF71BC79D91 [ASCII] len=20: 'Pikachu Time Sub CA0'
+    xref: (no xref)
+  0x7FF71BC79DE8 [ASCII] len=27: 'https://test.certs.us.kg/0/'
+    xref: (no xref)
+  0x7FF71BC79E0E [ASCII] len=37: '#https://pikachuim.github.io/testca/0'
+    xref: (no xref)
+  0x7FF71BC79E56 [ASCII] len=26: 'http://test.ocsps.us.kg/0&'
+    xref: (no xref)
+  0x7FF71BC79E7C [ASCII] len=28: 'http://test.ocsps.opkg.cn/0<'
+    xref: (no xref)
+  0x7FF71BC79EA3 [ASCII] len=51: '0https://test.certs.us.kg/certs/rootca/rootca.crt0F'
+    xref: (no xref)
+  0x7FF71BC79EE1 [ASCII] len=61: ':https://pikachuim.github.io/testca/certs/rootca/rootca.crt0>'
+    xref: (no xref)
+  0x7FF71BC79F29 [ASCII] len=52: '2https://test.certs.opkg.cn/certs/rootca/rootca.crt0'
+    xref: (no xref)
+  0x7FF71BC79F71 [ASCII] len=51: '0https://test.certs.us.kg/certs/rootca/rootca.crl0@'
+    xref: (no xref)
+  0x7FF71BC79FA9 [ASCII] len=61: ':https://pikachuim.github.io/testca/certs/rootca/rootca.crl08'
+    xref: (no xref)
+  0x7FF71BC79FEB [ASCII] len=52: '2https://test.certs.opkg.cn/certs/rootca/rootca.crl0'
+    xref: (no xref)
+  0x7FF71BC7A042 [ASCII] len=21: 'Pikachu Time Sub CA0\r'
+    xref: (no xref)
+  0x7FF71BC7A128 [ASCII] len=7: 'd%_FAQ\\'
+    xref: (no xref)
+  0x7FF71BC7A79F [ASCII] len=7: 'dbgcore'
+    xref: (no xref)
+  0x7FF71BC7A7B7 [ASCII] len=12: 'LeagueClient'
+    xref: (no xref)
+  0x7FF71BC7A7E8 [ASCII] len=9: ' dbgcore '
+    xref: (no xref)
+  0x7FF71BC7A7FC [ASCII] len=7: ' FlyPY '
+    xref: (no xref)
+  0x7FF71BC7A853 [ASCII] len=7: 'dbgcore'
+    xref: (no xref)
+  0x7FF71BC7A86B [ASCII] len=8: 'bad cast'
+    xref: (no xref)
+  0x7FF71BC7A874 [ASCII] len=6: 'exists'
+    xref: (no xref)
+  0x7FF71BC7A87B [ASCII] len=18: 'create_directories'
+    xref: (no xref)
+  0x7FF71BC7A88E [ASCII] len=17: 'Unknown exception'
+    xref: (no xref)
+  0x7FF71BC7A8A0 [ASCII] len=23: 'invalid string position'
+    xref: (no xref)
+  0x7FF71BC7A8BD [ASCII] len=12: 'flyinput.dll'
+    xref: (no xref)
+  0x7FF71BC7A8CA [ASCII] len=11: 'dbgcore.dll'
+    xref: (no xref)
+  0x7FF71BC7A8D6 [ASCII] len=10: 'remove_all'
+    xref: (no xref)
+  0x7FF71BC7A8E1 [ASCII] len=20: 'bad array new length'
+    xref: (no xref)
+  0x7FF71BC7A8F6 [ASCII] len=11: 'InstallPath'
+    xref: (no xref)
+  0x7FF71BC7A902 [ASCII] len=15: 'string too long'
+    xref: (no xref)
+  0x7FF71BC7A912 [ASCII] len=6: 'remove'
+    xref: (no xref)
+  0x7FF71BC7A91E [ASCII] len=21: 'C:/Users/Public/FlyPY'
+    xref: (no xref)
+  0x7FF71BC7A934 [ASCII] len=20: 'Software\\Tencent\\LOL'
+    xref: (no xref)
+  0x7FF71BC7A95F [ASCII] len=7: '\x1b[2J\x1b[H'
+    xref: (no xref)
+  0x7FF71BC7A9B0 [ASCII] len=14: 'bad allocation'
+    xref: (no xref)
+  0x7FF71BC7A9C0 [ASCII] len=20: 'bad array new length'
+    xref: (no xref)
+  0x7FF71BC7B472 [ASCII] len=15: 'AreFileApisANSI'
+    xref: (no xref)
+  0x7FF71BC7B484 [ASCII] len=11: 'CloseHandle'
+    xref: (no xref)
+  0x7FF71BC7B492 [ASCII] len=16: 'CreateDirectoryW'
+    xref: (no xref)
+  0x7FF71BC7B4A6 [ASCII] len=11: 'CreateFile2'
+    xref: (no xref)
+  0x7FF71BC7B4B4 [ASCII] len=11: 'CreateFileA'
+    xref: (no xref)
+  0x7FF71BC7B4C2 [ASCII] len=18: 'CreateFileMappingA'
+    xref: (no xref)
+  0x7FF71BC7B4D8 [ASCII] len=24: 'CreateToolhelp32Snapshot'
+    xref: (no xref)
+  0x7FF71BC7B4F4 [ASCII] len=9: 'FindClose'
+    xref: (no xref)
+  0x7FF71BC7B500 [ASCII] len=16: 'FindFirstFileExW'
+    xref: (no xref)
+  0x7FF71BC7B514 [ASCII] len=14: 'FindFirstFileW'
+    xref: (no xref)
+  0x7FF71BC7B526 [ASCII] len=13: 'FindNextFileW'
+    xref: (no xref)
+  0x7FF71BC7B536 [ASCII] len=14: 'FormatMessageA'
+    xref: (no xref)
+  0x7FF71BC7B548 [ASCII] len=19: 'GetCurrentProcessId'
+    xref: (no xref)
+  0x7FF71BC7B55E [ASCII] len=18: 'GetCurrentThreadId'
+    xref: (no xref)
+  0x7FF71BC7B574 [ASCII] len=20: 'GetFileAttributesExW'
+    xref: (no xref)
+  0x7FF71BC7B58C [ASCII] len=28: 'GetFileInformationByHandleEx'
+    xref: (no xref)
+  0x7FF71BC7B5AC [ASCII] len=13: 'GetFileSizeEx'
+    xref: (no xref)
+  0x7FF71BC7B5BC [ASCII] len=12: 'GetLastError'
+    xref: (no xref)
+  0x7FF71BC7B5CC [ASCII] len=15: 'GetLocaleInfoEx'
+    xref: (no xref)
+  0x7FF71BC7B5DE [ASCII] len=16: 'GetModuleHandleW'
+    xref: (no xref)
+  0x7FF71BC7B5F2 [ASCII] len=23: 'GetSystemTimeAsFileTime'
+    xref: (no xref)
+  0x7FF71BC7B60C [ASCII] len=19: 'InitializeSListHead'
+    xref: (no xref)
+  0x7FF71BC7B622 [ASCII] len=9: 'LocalFree'
+    xref: (no xref)
+  0x7FF71BC7B62E [ASCII] len=13: 'MapViewOfFile'
+    xref: (no xref)
+  0x7FF71BC7B63E [ASCII] len=19: 'MultiByteToWideChar'
+    xref: (no xref)
+  0x7FF71BC7B654 [ASCII] len=11: 'OpenProcess'
+    xref: (no xref)
+  0x7FF71BC7B662 [ASCII] len=14: 'Process32First'
+    xref: (no xref)
+  0x7FF71BC7B674 [ASCII] len=13: 'Process32Next'
+    xref: (no xref)
+  0x7FF71BC7B684 [ASCII] len=26: 'QueryFullProcessImageNameA'
+    xref: (no xref)
+  0x7FF71BC7B6A2 [ASCII] len=23: 'QueryPerformanceCounter'
+    xref: (no xref)
+  0x7FF71BC7B6BC [ASCII] len=26: 'SetFileInformationByHandle'
+    xref: (no xref)
+  0x7FF71BC7B6DA [ASCII] len=27: 'SetUnhandledExceptionFilter'
+    xref: (no xref)
+  0x7FF71BC7B6F8 [ASCII] len=15: 'UnmapViewOfFile'
+    xref: (no xref)
+  0x7FF71BC7B70A [ASCII] len=19: 'WideCharToMultiByte'
+    xref: (no xref)
+  0x7FF71BC7B720 [ASCII] len=13: 'ShellExecuteA'
+    xref: (no xref)
+  0x7FF71BC7B730 [ASCII] len=11: 'RegCloseKey'
+    xref: (no xref)
+  0x7FF71BC7B73E [ASCII] len=13: 'RegOpenKeyExA'
+    xref: (no xref)
+  0x7FF71BC7B74E [ASCII] len=16: 'RegQueryValueExA'
+    xref: (no xref)
+  0x7FF71BC7B762 [ASCII] len=57: '??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ'
+    xref: (no xref)
+  0x7FF71BC7B79E [ASCII] len=24: '??0_Lockit@std@@QEAA@H@Z'
+    xref: (no xref)
+  0x7FF71BC7B7BA [ASCII] len=24: '??0ios_base@std@@IEAA@XZ'
+    xref: (no xref)
+  0x7FF71BC7B7D6 [ASCII] len=57: '??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ'
+    xref: (no xref)
+  0x7FF71BC7B812 [ASCII] len=23: '??1_Lockit@std@@QEAA@XZ'
+    xref: (no xref)
+  0x7FF71BC7B82C [ASCII] len=24: '??1ios_base@std@@UEAA@XZ'
+    xref: (no xref)
+  0x7FF71BC7B848 [ASCII] len=66: '??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEA_N@Z'
+    xref: (no xref)
+  0x7FF71BC7B88E [ASCII] len=37: '?_Fiopen@std@@YAPEAU_iobuf@@PEB_WHH@Z'
+    xref: (no xref)
+  0x7FF71BC7B8B6 [ASCII] len=74: '?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z'
+    xref: (no xref)
+  0x7FF71BC7B904 [ASCII] len=49: '?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ'
+    xref: (no xref)
+  0x7FF71BC7B938 [ASCII] len=27: '?_Id_cnt@id@locale@std@@0HA'
+    xref: (no xref)
+  0x7FF71BC7B956 [ASCII] len=59: '?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ'
+    xref: (no xref)
+  0x7FF71BC7B994 [ASCII] len=29: '?_Syserror_map@std@@YAPEBDH@Z'
+    xref: (no xref)
+  0x7FF71BC7B9B4 [ASCII] len=23: '?_Xbad_alloc@std@@YAXXZ'
+    xref: (no xref)
+  0x7FF71BC7B9CE [ASCII] len=30: '?_Xlength_error@std@@YAXPEBD@Z'
+    xref: (no xref)
+  0x7FF71BC7B9F0 [ASCII] len=30: '?_Xout_of_range@std@@YAXPEBD@Z'
+    xref: (no xref)
+  0x7FF71BC7BA12 [ASCII] len=55: '?cin@std@@3V?$basic_istream@DU?$char_traits@D@std@@@1@A'
+    xref: (no xref)
+  0x7FF71BC7BA4C [ASCII] len=58: '?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z'
+    xref: (no xref)
+  0x7FF71BC7BA8A [ASCII] len=56: '?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A'
+    xref: (no xref)
+  0x7FF71BC7BAC6 [ASCII] len=28: '?fail@ios_base@std@@QEBA_NXZ'
+    xref: (no xref)
+  0x7FF71BC7BAE6 [ASCII] len=65: '?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ'
+    xref: (no xref)
+  0x7FF71BC7BB2A [ASCII] len=73: '?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ'
+    xref: (no xref)
+  0x7FF71BC7BB76 [ASCII] len=28: '?good@ios_base@std@@QEBA_NXZ'
+    xref: (no xref)
+  0x7FF71BC7BB96 [ASCII] len=47: '?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A'
+    xref: (no xref)
+  0x7FF71BC7BBC8 [ASCII] len=56: '?init@?$basic_ios@DU?$char_traits@D@std@@@std@@IEAAXPEAV'
+    xref: (no xref)
+  0x7FF71BC7C034 [ASCII] len=64: '?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z'
+    xref: (no xref)
+  0x7FF71BC7C078 [ASCII] len=66: '?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ'
+    xref: (no xref)
+  0x7FF71BC7C0BE [ASCII] len=62: '?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z'
+    xref: (no xref)
+  0x7FF71BC7C100 [ASCII] len=31: '?uncaught_exceptions@std@@YAHXZ'
+    xref: (no xref)
+  0x7FF71BC7C122 [ASCII] len=56: '?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z'
+    xref: (no xref)
+  0x7FF71BC7C15E [ASCII] len=71: '?write@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@PEBD_J@Z'
+    xref: (no xref)
+  0x7FF71BC7C1A8 [ASCII] len=69: '?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z'
+    xref: (no xref)
+  0x7FF71BC7C1F0 [ASCII] len=69: '?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z'
+    xref: (no xref)
+  0x7FF71BC7C238 [ASCII] len=18: '_CxxThrowException'
+    xref: (no xref)
+  0x7FF71BC7C24E [ASCII] len=20: '__C_specific_handler'
+    xref: (no xref)
+  0x7FF71BC7C266 [ASCII] len=19: '__current_exception'
+    xref: (no xref)
+  0x7FF71BC7C27C [ASCII] len=27: '__current_exception_context'
+    xref: (no xref)
+  0x7FF71BC7C29A [ASCII] len=20: '__std_exception_copy'
+    xref: (no xref)
+  0x7FF71BC7C2B2 [ASCII] len=23: '__std_exception_destroy'
+    xref: (no xref)
+  0x7FF71BC7C2CC [ASCII] len=6: 'memcpy'
+    xref: (no xref)
+  0x7FF71BC7C2D6 [ASCII] len=7: 'memmove'
+    xref: (no xref)
+  0x7FF71BC7C2E0 [ASCII] len=6: 'memset'
+    xref: (no xref)
+  0x7FF71BC7C2EA [ASCII] len=14: '___lc_codepage'
+    xref: (no xref)
+  0x7FF71BC7C2F8 [ASCII] len=5: '_func'
+    xref: 0x7FF71BC6A6FA, 0x7FF71BC6A701
+  0x7FF71BC7C316 [ASCII] len=12: '__p__commode'
+    xref: (no xref)
+  0x7FF71BC7C326 [ASCII] len=9: '_fseeki64'
+    xref: (no xref)
+  0x7FF71BC7C332 [ASCII] len=27: '_get_stream_buffer_pointers'
+    xref: (no xref)
+  0x7FF71BC7C350 [ASCII] len=10: '_set_fmode'
+    xref: (no xref)
+  0x7FF71BC7C35E [ASCII] len=6: 'fclose'
+    xref: (no xref)
+  0x7FF71BC7C368 [ASCII] len=6: 'fflush'
+    xref: (no xref)
+  0x7FF71BC7C372 [ASCII] len=5: 'fgetc'
+    xref: (no xref)
+  0x7FF71BC7C37A [ASCII] len=7: 'fgetpos'
+    xref: (no xref)
+  0x7FF71BC7C384 [ASCII] len=5: 'fputc'
+    xref: (no xref)
+  0x7FF71BC7C38C [ASCII] len=5: 'fread'
+    xref: (no xref)
+  0x7FF71BC7C394 [ASCII] len=7: 'fsetpos'
+    xref: (no xref)
+  0x7FF71BC7C39E [ASCII] len=6: 'fwrite'
+    xref: (no xref)
+  0x7FF71BC7C3A8 [ASCII] len=7: 'setvbuf'
+    xref: (no xref)
+  0x7FF71BC7C3B2 [ASCII] len=6: 'ungetc'
+    xref: (no xref)
+  0x7FF71BC7C3BC [ASCII] len=6: '_getch'
+    xref: (no xref)
+  0x7FF71BC7C3C8 [ASCII] len=8: 'ock_file'
+    xref: 0x7FF71BC62412, 0x7FF71BC67199
+  0x7FF71BC7C3E4 [ASCII] len=10: '__p___argc'
+    xref: (no xref)
+  0x7FF71BC7C3F2 [ASCII] len=6: '__p___'
+    xref: (no xref)
+  0x7FF71BC7D00A [ASCII] len=6: '_cexit'
+    xref: (no xref)
+  0x7FF71BC7D014 [ASCII] len=22: '_configure_narrow_argv'
+    xref: (no xref)
+  0x7FF71BC7D02E [ASCII] len=11: '_crt_atexit'
+    xref: (no xref)
+  0x7FF71BC7D03C [ASCII] len=5: '_exit'
+    xref: (no xref)
+  0x7FF71BC7D044 [ASCII] len=31: '_get_initial_narrow_environment'
+    xref: (no xref)
+  0x7FF71BC7D066 [ASCII] len=30: '_initialize_narrow_environment'
+    xref: (no xref)
+  0x7FF71BC7D088 [ASCII] len=8: '_initial'
+    xref: (no xref)
+  0x7FF71BC7D152 [ASCII] len=13: '_set_new_mode'
+    xref: (no xref)
+  0x7FF71BC7D162 [ASCII] len=6: 'calloc'
+    xref: (no xref)
+  0x7FF71BC7D174 [ASCII] len=6: 'malloc'
+    xref: (no xref)
+  0x7FF71BC7D17E [ASCII] len=6: 'strlen'
+    xref: (no xref)
+  0x7FF71BC7D188 [ASCII] len=6: 'wcslen'
+    xref: (no xref)
+  0x7FF71BC7D192 [ASCII] len=16: '__setusermatherr'
+    xref: (no xref)
+  0x7FF71BC7D1A4 [ASCII] len=12: 'KERNEL32.dll'
+    xref: (no xref)
+  0x7FF71BC7D1B1 [ASCII] len=11: 'SHELL32.dll'
+    xref: (no xref)
+  0x7FF71BC7D1BD [ASCII] len=12: 'ADVAPI32.dll'
+    xref: (no xref)
+  0x7FF71BC7D1CA [ASCII] len=12: 'MSVCP140.dll'
+    xref: (no xref)
+  0x7FF71BC7D1D7 [ASCII] len=16: 'VCRUNTIME140.dll'
+    xref: (no xref)
+  0x7FF71BC7D1E8 [ASCII] len=32: 'api-ms-win-crt-locale-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D209 [ASCII] len=31: 'api-ms-win-crt-stdio-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D229 [ASCII] len=31: 'api-ms-win-crt-conio-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D249 [ASCII] len=36: 'api-ms-win-crt-filesystem-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D26E [ASCII] len=33: 'api-ms-win-crt-runtime-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D290 [ASCII] len=30: 'api-ms-win-crt-heap-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D2AF [ASCII] len=32: 'api-ms-win-crt-string-l1-1-0.dll'
+    xref: (no xref)
+  0x7FF71BC7D2D0 [ASCII] len=30: 'api-ms-win-crt-math-l1-1-0.dll'
+    xref: (no xref)
+
+Total shown: 905
