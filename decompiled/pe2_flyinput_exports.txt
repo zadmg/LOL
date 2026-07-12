@@ -1,0 +1,5 @@
+=== Exports of PE#2 (flyinput.dll) ===
+
+Total exports: 1
+
+  #6442540400: 0x180015D70 DllEntryPoint
