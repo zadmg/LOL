@@ -1,0 +1,90 @@
+=== Strings of PE#1 (fake dbgcore.dll) ===
+
+Total: 42
+
+  0x180002260 [ASCII] len=17: 'MiniDumpWriteDump'
+    xref: 0x18000109E in sub_180001020
+  0x180002272 [ASCII] len=22: 'MiniDumpReadDumpStream'
+    xref: 0x18000107B in sub_180001020
+  0x180002289 [ASCII] len=34: 'C:\\Users\\Public\\FlyPY\\flyinput.dll'
+    xref: 0x1800010B7 in sub_180001020
+  0x1800022AC [ASCII] len=12: '\\dbgcore.dll'
+    xref: 0x180001052 in sub_180001020
+  0x1800022B9 [ASCII] len=7: 'dbgcore'
+    xref: 0x18000110F in sub_180001020
+  0x1800022C1 [ASCII] len=18: 'Get address failed'
+    xref: 0x1800010FF in sub_180001020
+  0x1800022D4 [ASCII] len=24: 'Load original dll failed'
+    xref: 0x180001108 in sub_180001020
+  0x1800023AC [ASCII] len=11: 'dbgcore.dll'
+    xref: 0x18000237C
+  0x1800023B8 [ASCII] len=22: 'MiniDumpReadDumpStream'
+    xref: 0x1800023A0
+  0x1800023CF [ASCII] len=17: 'MiniDumpWriteDump'
+    xref: 0x1800023A0
+  0x180002672 [ASCII] len=25: 'DisableThreadLibraryCalls'
+    xref: (no xref)
+  0x18000268E [ASCII] len=11: 'ExitProcess'
+    xref: (no xref)
+  0x18000269C [ASCII] len=11: 'FreeLibrary'
+    xref: (no xref)
+  0x1800026AA [ASCII] len=19: 'GetCurrentProcessId'
+    xref: (no xref)
+  0x1800026C0 [ASCII] len=18: 'GetCurrentThreadId'
+    xref: (no xref)
+  0x1800026D6 [ASCII] len=14: 'GetProcAddress'
+    xref: (no xref)
+  0x1800026E8 [ASCII] len=19: 'GetSystemDirectoryA'
+    xref: (no xref)
+  0x1800026FE [ASCII] len=23: 'GetSystemTimeAsFileTime'
+    xref: (no xref)
+  0x180002718 [ASCII] len=19: 'InitializeSListHead'
+    xref: (no xref)
+  0x18000272E [ASCII] len=12: 'LoadLibraryA'
+    xref: (no xref)
+  0x18000273E [ASCII] len=23: 'QueryPerformanceCounter'
+    xref: (no xref)
+  0x180002758 [ASCII] len=8: 'lstrcatA'
+    xref: (no xref)
+  0x180002764 [ASCII] len=11: 'MessageBoxA'
+    xref: (no xref)
+  0x180002772 [ASCII] len=20: '__C_specific_handler'
+    xref: (no xref)
+  0x18000278A [ASCII] len=28: '__std_type_info_destroy_list'
+    xref: (no xref)
+  0x1800027AA [ASCII] len=6: 'memcpy'
+    xref: (no xref)
+  0x1800027B4 [ASCII] len=6: 'calloc'
+    xref: (no xref)
+  0x1800027C6 [ASCII] len=6: '_cexit'
+    xref: (no xref)
+  0x1800027D0 [ASCII] len=22: '_configure_narrow_argv'
+    xref: (no xref)
+  0x1800027EA [ASCII] len=11: '_crt_atexit'
+    xref: (no xref)
+  0x1800027F8 [ASCII] len=21: '_execute_onexit_table'
+    xref: (no xref)
+  0x180002810 [ASCII] len=30: '_initialize_narrow_environment'
+    xref: (no xref)
+  0x180002832 [ASCII] len=24: '_initialize_onexit_table'
+    xref: (no xref)
+  0x18000284E [ASCII] len=9: '_initterm'
+    xref: (no xref)
+  0x18000285A [ASCII] len=11: '_initterm_e'
+    xref: (no xref)
+  0x180002868 [ASCII] len=25: '_register_onexit_function'
+    xref: (no xref)
+  0x180002884 [ASCII] len=15: '_seh_filter_dll'
+    xref: (no xref)
+  0x180002894 [ASCII] len=12: 'KERNEL32.DLL'
+    xref: 0x1800023F0
+  0x1800028A1 [ASCII] len=10: 'USER32.dll'
+    xref: 0x18000242C
+  0x1800028AC [ASCII] len=16: 'VCRUNTIME140.dll'
+    xref: 0x180002440
+  0x1800028BD [ASCII] len=30: 'api-ms-win-crt-heap-l1-1-0.dll'
+    xref: 0x180002404
+  0x1800028DC [ASCII] len=33: 'api-ms-win-crt-runtime-l1-1-0.dll'
+    xref: 0x180002418
+
+Total shown: 42
