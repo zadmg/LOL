@@ -1,0 +1,244 @@
+=== Strings of PE#2 (flyinput.dll) ===
+
+Total: 119
+
+  0x180017490 [ASCII] len=8: 'PickACar'
+    xref: 0x180015166 in sub_1800150E0
+  0x180017499 [ASCII] len=8: 'BlueCard'
+    xref: (no xref)
+  0x1800174A2 [ASCII] len=8: 'GoldCard'
+    xref: (no xref)
+  0x1800174AB [ASCII] len=8: 'RedCardL'
+    xref: (no xref)
+  0x18001753C [ASCII] len=13: 'Iron Revenant'
+    xref: 0x1800173F8
+  0x18001754F [ASCII] len=10: 'Royal arms'
+    xref: 0x180017390
+  0x18001755A [ASCII] len=15: 'Hall of Legends'
+    xref: 0x180017400
+  0x18001756A [ASCII] len=9: 'Zero hour'
+    xref: 0x180017388
+  0x180017574 [ASCII] len=12: 'Scarlet fair'
+    xref: 0x180017380
+  0x180017581 [ASCII] len=6: 'LuxAir'
+    xref: 0x180001E1D in sub_180001180, 0x180002029 in sub_180001180
+  0x180017588 [ASCII] len=8: 'LuxWater'
+    xref: 0x1800019F0 in sub_180001180, 0x180003104 in sub_180001180
+  0x180017591 [ASCII] len=17: 'Unknown exception'
+    xref: 0x1800134C7 in sub_1800134C0
+  0x1800175A3 [ASCII] len=7: 'Head on'
+    xref: 0x180017368
+  0x1800175AB [ASCII] len=8: 'LuxStorm'
+    xref: 0x180002E4D in sub_180001180, 0x180002EFE in sub_180001180
+  0x1800175B4 [ASCII] len=9: 'Starswarm'
+    xref: 0x180017398
+  0x1800175BE [ASCII] len=9: 'ntdll.dll'
+    xref: 0x1800011EA in sub_180001180, 0x180012C20 in StartAddress
+  0x1800175C8 [ASCII] len=9: 'Sahn-Uzal'
+    xref: 0x1800173E8
+  0x1800175D2 [ASCII] len=7: 'LuxDark'
+    xref: 0x18000218D in sub_180001180, 0x18000223E in sub_180001180
+  0x1800175DA [ASCII] len=20: 'bad array new length'
+    xref: 0x18001500D in sub_180015000
+  0x1800175EF [ASCII] len=16: 'map/set too long'
+    xref: 0x180014784 in ?_Xlen@?$vector@PEAXV?$allocator@PEAX@std@@@std@@IEBAXXZ_0
+  0x180017600 [ASCII] len=15: 'vector too long'
+    xref: 0x180013E74 in ?_Xlen@?$vector@PEAXV?$allocator@PEAX@std@@@std@@IEBAXXZ
+  0x180017610 [ASCII] len=16: 'Unconquered King'
+    xref: 0x1800173F0
+  0x180017621 [ASCII] len=8: 'Head off'
+    xref: 0x180017360
+  0x18001762F [ASCII] len=8: 'Ultimate'
+    xref: 0x180017378
+  0x180017638 [ASCII] len=9: 'LuxNature'
+    xref: 0x180002C2D in sub_180001180, 0x180002CDE in sub_180001180
+  0x180017642 [ASCII] len=7: 'LuxFire'
+    xref: 0x1800023AD in sub_180001180, 0x18000245E in sub_180001180
+  0x18001764A [ASCII] len=6: 'LuxIce'
+    xref: 0x1800025CD in sub_180001180, 0x18000267E in sub_180001180
+  0x180017651 [ASCII] len=12: 'Without hood'
+    xref: 0x1800173C8
+  0x18001765E [ASCII] len=9: 'With hood'
+    xref: 0x1800173B8
+  0x180017668 [ASCII] len=12: 'Risen Legend'
+    xref: 0x180017408
+  0x180017675 [ASCII] len=19: 'Immortalized Legend'
+    xref: 0x180017410
+  0x180017689 [ASCII] len=14: 'Parallel world'
+    xref: 0x1800173C0
+  0x1800176A1 [ASCII] len=22: 'NtSetInformationThread'
+    xref: 0x1800011F7 in sub_180001180, 0x180012C2D in StartAddress
+  0x1800176B8 [ASCII] len=9: 'LuxMystic'
+    xref: 0x180002A0D in sub_180001180, 0x180002ABE in sub_180001180
+  0x1800176C2 [ASCII] len=8: 'LuxMagma'
+    xref: 0x1800027ED in sub_180001180, 0x18000289E in sub_180001180
+  0x1800176CB [ASCII] len=6: 'Sword7'
+    xref: 0x180017478
+  0x1800176D2 [ASCII] len=5: 'Mask6'
+    xref: 0x180017440
+  0x1800176D8 [ASCII] len=6: 'Sword6'
+    xref: 0x180017470
+  0x1800176DF [ASCII] len=8: 'Dagger 6'
+    xref: 0x180017358
+  0x1800176E8 [ASCII] len=5: 'Mask5'
+    xref: 0x180017438
+  0x1800176EE [ASCII] len=6: 'Sword5'
+    xref: 0x180017468
+  0x1800176F5 [ASCII] len=8: 'Dagger 5'
+    xref: 0x180017350
+  0x1800176FE [ASCII] len=5: 'Mask4'
+    xref: 0x180017430
+  0x180017704 [ASCII] len=6: 'Sword4'
+    xref: 0x180017460
+  0x18001770B [ASCII] len=8: 'Dagger 4'
+    xref: 0x180017348
+  0x180017714 [ASCII] len=5: 'Mask3'
+    xref: 0x180017428
+  0x18001771A [ASCII] len=6: 'Sword3'
+    xref: 0x180017458
+  0x180017721 [ASCII] len=13: 'SonaDJGenre03'
+    xref: 0x1800032CD in sub_180001180, 0x180003379 in sub_180001180
+  0x18001772F [ASCII] len=8: 'Dagger 3'
+    xref: 0x180017340
+  0x180017738 [ASCII] len=7: 'Level 3'
+    xref: 0x1800173B0
+  0x180017740 [ASCII] len=5: 'Mask2'
+    xref: 0x180017420
+  0x180017746 [ASCII] len=6: 'Sword2'
+    xref: 0x180017450
+  0x18001774D [ASCII] len=13: 'SonaDJGenre02'
+    xref: 0x180001F6D in sub_180001180, 0x18000315E in sub_180001180
+  0x18001775B [ASCII] len=8: 'Dagger 2'
+    xref: 0x180017338
+  0x180017764 [ASCII] len=7: 'Level 2'
+    xref: 0x1800173A8
+  0x18001776C [ASCII] len=5: 'Mask1'
+    xref: 0x180017418
+  0x180017772 [ASCII] len=6: 'Sword1'
+    xref: 0x180017448
+  0x180017779 [ASCII] len=8: 'Dagger 1'
+    xref: 0x180017330
+  0x180017782 [ASCII] len=7: 'Level 1'
+    xref: 0x1800173A0
+  0x180017790 [ASCII] len=14: 'bad allocation'
+    xref: 0x180015660 in sub_180015660
+  0x1800177A0 [ASCII] len=20: 'bad array new length'
+    xref: 0x1800156B0 in sub_1800156B0
+  0x180017C52 [ASCII] len=25: 'DisableThreadLibraryCalls'
+    xref: (no xref)
+  0x180017C6E [ASCII] len=19: 'GetCurrentProcessId'
+    xref: (no xref)
+  0x180017C84 [ASCII] len=16: 'GetCurrentThread'
+    xref: (no xref)
+  0x180017C98 [ASCII] len=18: 'GetCurrentThreadId'
+    xref: (no xref)
+  0x180017CAE [ASCII] len=16: 'GetModuleHandleA'
+    xref: (no xref)
+  0x180017CC2 [ASCII] len=14: 'GetProcAddress'
+    xref: (no xref)
+  0x180017CD4 [ASCII] len=23: 'GetSystemTimeAsFileTime'
+    xref: (no xref)
+  0x180017CEE [ASCII] len=19: 'InitializeSListHead'
+    xref: (no xref)
+  0x180017D04 [ASCII] len=23: 'QueryPerformanceCounter'
+    xref: (no xref)
+  0x180017D1E [ASCII] len=5: 'Sleep'
+    xref: (no xref)
+  0x180017D26 [ASCII] len=16: 'GetAsyncKeyState'
+    xref: (no xref)
+  0x180017D3A [ASCII] len=9: 'KillTimer'
+    xref: (no xref)
+  0x180017D46 [ASCII] len=14: 'MapVirtualKeyA'
+    xref: (no xref)
+  0x180017D58 [ASCII] len=9: 'SendInput'
+    xref: (no xref)
+  0x180017D64 [ASCII] len=8: 'SetTimer'
+    xref: (no xref)
+  0x180017D70 [ASCII] len=29: '?_Throw_Cpp_error@std@@YAXH@Z'
+    xref: (no xref)
+  0x180017D90 [ASCII] len=31: '?_Xbad_function_call@std@@YAXXZ'
+    xref: (no xref)
+  0x180017DB2 [ASCII] len=30: '?_Xlength_error@std@@YAXPEBD@Z'
+    xref: (no xref)
+  0x180017DD4 [ASCII] len=14: '_Cnd_broadcast'
+    xref: (no xref)
+  0x180017DE6 [ASCII] len=32: '_Cnd_do_broadcast_at_thread_exit'
+    xref: (no xref)
+  0x180017E0A [ASCII] len=9: '_Cnd_wait'
+    xref: (no xref)
+  0x180017E16 [ASCII] len=9: '_Mtx_lock'
+    xref: (no xref)
+  0x180017E22 [ASCII] len=11: '_Mtx_unlock'
+    xref: (no xref)
+  0x180017E30 [ASCII] len=19: '_Query_perf_counter'
+    xref: (no xref)
+  0x180017E46 [ASCII] len=21: '_Query_perf_frequency'
+    xref: (no xref)
+  0x180017E5E [ASCII] len=12: '_Thrd_detach'
+    xref: (no xref)
+  0x180017E6E [ASCII] len=8: '_Thrd_id'
+    xref: (no xref)
+  0x180017E7A [ASCII] len=10: '_Thrd_join'
+    xref: (no xref)
+  0x180017E88 [ASCII] len=18: '_CxxThrowException'
+    xref: (no xref)
+  0x180017E9E [ASCII] len=20: '__C_specific_handler'
+    xref: (no xref)
+  0x180017EB6 [ASCII] len=20: '__std_exception_copy'
+    xref: (no xref)
+  0x180017ECE [ASCII] len=23: '__std_exception_destroy'
+    xref: (no xref)
+  0x180017EE8 [ASCII] len=28: '__std_type_info_destroy_list'
+    xref: (no xref)
+  0x180017F08 [ASCII] len=6: 'memcpy'
+    xref: (no xref)
+  0x180017F12 [ASCII] len=14: '_beginthreadex'
+    xref: (no xref)
+  0x180017F24 [ASCII] len=6: '_cexit'
+    xref: (no xref)
+  0x180017F2E [ASCII] len=22: '_configure_narrow_argv'
+    xref: (no xref)
+  0x180017F48 [ASCII] len=11: '_crt_atexit'
+    xref: (no xref)
+  0x180017F56 [ASCII] len=21: '_execute_onexit_table'
+    xref: (no xref)
+  0x180017F6E [ASCII] len=30: '_initialize_narrow_environment'
+    xref: (no xref)
+  0x180017F90 [ASCII] len=24: '_initialize_onexit_table'
+    xref: (no xref)
+  0x180017FAC [ASCII] len=9: '_initterm'
+    xref: (no xref)
+  0x180017FB8 [ASCII] len=11: '_initterm_e'
+    xref: (no xref)
+  0x180017FC6 [ASCII] len=25: '_register_onexit_function'
+    xref: (no xref)
+  0x180017FE2 [ASCII] len=15: '_seh_filter_dll'
+    xref: (no xref)
+  0x180017FF4 [ASCII] len=9: 'terminate'
+    xref: (no xref)
+  0x180018000 [ASCII] len=9: '_callnewh'
+    xref: (no xref)
+  0x180018014 [ASCII] len=6: 'malloc'
+    xref: (no xref)
+  0x18001801C [ASCII] len=12: 'KERNEL32.DLL'
+    xref: 0x18001785C
+  0x180018029 [ASCII] len=10: 'USER32.dll'
+    xref: 0x1800178AC
+  0x180018034 [ASCII] len=12: 'MSVCP140.dll'
+    xref: 0x180017898
+  0x180018041 [ASCII] len=16: 'VCRUNTIME140.dll'
+    xref: 0x1800178C0
+  0x180018052 [ASCII] len=33: 'api-ms-win-crt-runtime-l1-1-0.dll'
+    xref: 0x180017884
+  0x180018074 [ASCII] len=30: 'api-ms-win-crt-heap-l1-1-0.dll'
+    xref: 0x180017870
+  0x1800190F0 [ASCII] len=30: '.?AVbad_array_new_length@std@@'
+    xref: (no xref)
+  0x180019120 [ASCII] len=19: '.?AVbad_alloc@std@@'
+    xref: (no xref)
+  0x180019150 [ASCII] len=19: '.?AVexception@std@@'
+    xref: (no xref)
+  0x180019180 [ASCII] len=15: '.?AVtype_info@@'
+    xref: (no xref)
+
+Total shown: 119
